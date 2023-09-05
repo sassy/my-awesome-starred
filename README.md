@@ -356,6 +356,7 @@
 
 ## JavaScript 
 
+- [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
 - [tronicboy1/svelte-rxjs-subjects](https://github.com/tronicboy1/svelte-rxjs-subjects) - An extension of RxJS subjects to be used as Svelte Stores
 - [zach-hopkins/create-t3svelte-app](https://github.com/zach-hopkins/create-t3svelte-app) - Quick T3 Stack with SvelteKit for rapid deployment of highly performant typesafe web apps.
 - [kt3k/browser-streaming-examples](https://github.com/kt3k/browser-streaming-examples) - examples to perform streaming in browsers
