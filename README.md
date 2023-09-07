@@ -195,6 +195,8 @@
 
 ## Go 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [mattn/golisp](https://github.com/mattn/golisp) - Lisp Interpreter
 - [mattn/go-kenshiro](https://github.com/mattn/go-kenshiro) - 
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
 - [habuka036/gen-ramen34](https://github.com/habuka036/gen-ramen34) - ラーメン三銃士ジェネレータ
@@ -347,7 +349,6 @@
 - [KLab/iPhoroidUI](https://github.com/KLab/iPhoroidUI) - KLab iPhoroid UI Library
 - [sassy/AndroidBindingSample](https://github.com/sassy/AndroidBindingSample) - android-bindingを使ってみる
 - [sassy/AndroidUITest](https://github.com/sassy/AndroidUITest) - Android test sample for UI.
-- [sassy/MyConnect](https://github.com/sassy/MyConnect) - Facebook application
 - [ussy/sqlite-fixture](https://github.com/ussy/sqlite-fixture) - Android SQLite Fixture Library
 - [sassy/AndroidTetris](https://github.com/sassy/AndroidTetris) - emulation of Tetris for programing exercise of Android.
 - [sassy/UnixTime](https://github.com/sassy/UnixTime) - UnixTime
@@ -608,7 +609,6 @@
 - [AndiDog/phonegap-ios-navigationbar-plugin](https://github.com/AndiDog/phonegap-ios-navigationbar-plugin) - Navigation bar for PhoneGap/Cordova on iOS
 - [sassy/iOSFirstTwitterApp](https://github.com/sassy/iOSFirstTwitterApp) - iOSFirstTwitterApp
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
-- [sassy/Quest](https://github.com/sassy/Quest) - iOSのテストブラウザ
 
 ## Others 
 
