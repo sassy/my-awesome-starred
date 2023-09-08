@@ -173,6 +173,7 @@
 
 ## android 
 
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [DroidKaigi/conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) - The Official Conference App for DroidKaigi 2022
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -660,6 +661,7 @@
 
 ## graphql 
 
+- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [kazuyaseki/graphql-codegen-flutter-artemis-hooks](https://github.com/kazuyaseki/graphql-codegen-flutter-artemis-hooks) - graphql-codegen plugin to generate type-safe, easy-to use hooks for Flutter
@@ -743,6 +745,7 @@
 
 ## ios 
 
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -899,6 +902,7 @@
 
 ## kotlin 
 
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
 - [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
@@ -1103,6 +1107,8 @@
 
 ## others 
 
+- [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
+- [increments/qiita-cli](https://github.com/increments/qiita-cli) - Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。
 - [AndroidDagashi/AndroidDagashi](https://github.com/AndroidDagashi/AndroidDagashi) - 
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc) - mruby/c is another implementation of mruby.
@@ -1702,6 +1708,7 @@
 
 ## rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -1781,6 +1788,7 @@
 
 ## swiftui 
 
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -1795,6 +1803,7 @@
 
 ## terminal 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [tj/go-termd](https://github.com/tj/go-termd) - Package termd provides terminal markdown rendering, with code block syntax highlighting support.
 
 ## testing 
