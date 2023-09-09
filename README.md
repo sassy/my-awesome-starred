@@ -127,7 +127,6 @@
 - [libmx3/mx3](https://github.com/libmx3/mx3) - a sample project showcasing/collecting cross platform techniques on mobile
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [pankona/KonaReflection](https://github.com/pankona/KonaReflection) - Breakout (ブロック崩し) using cocos2d-x
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
@@ -342,6 +341,7 @@
 - [gree/aurora](https://github.com/gree/aurora) - AuroraはI/OをシャーディングするためのJava/Scala向けライブラリです。
 - [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [apache/xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) - Apache XML Graphics Batik
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 - [xxv/android-lifecycle](https://github.com/xxv/android-lifecycle) - A diagram of the Android Activity / Fragment lifecycle
 - [nowsprinting/AndroidAppsTestAutomationSamples](https://github.com/nowsprinting/AndroidAppsTestAutomationSamples) - @IT連載『スマホ向け無料システムテスト自動化ツール』Androidサンプルコード
@@ -919,7 +919,7 @@
 - [valor-software/ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular based on Chart.js
 - [yomotsu/camera-controls](https://github.com/yomotsu/camera-controls) - A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
