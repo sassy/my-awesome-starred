@@ -66,6 +66,7 @@
 
 ## C 
 
+- [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
 - [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc) - mruby/c is another implementation of mruby.
 - [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
 - [karino2/c-lesson](https://github.com/karino2/c-lesson) - karino2の暇つぶしプログラム教室のC言語を教えるのに使うgithub pageのレポジトリです。
@@ -544,7 +545,7 @@
 
 ## Kotlin 
 
-- [DroidKaigi/conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - 
+- [DroidKaigi/conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - The Official Conference App for DroidKaigi 2023
 - [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [DroidKaigi/conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) - The Official Conference App for DroidKaigi 2022
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
@@ -851,6 +852,7 @@
 
 ## TypeScript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [increments/qiita-cli](https://github.com/increments/qiita-cli) - Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。
 - [AndroidDagashi/AndroidDagashi](https://github.com/AndroidDagashi/AndroidDagashi) - 
@@ -862,7 +864,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [sassy/dccs-deno](https://github.com/sassy/dccs-deno) - get Delay Certificate of JR Chuo-Sobu Line.
-- [teaxyz/cli](https://github.com/teaxyz/cli) - tea: run anything
+- [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
 - [reactjs/ja.react.dev](https://github.com/reactjs/ja.react.dev) - React documentation website in Japanese
 - [hisasann/gas-typescript-starter](https://github.com/hisasann/gas-typescript-starter) - 🍡 Google Apps Script + TypeScript + lerna 🍼
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
