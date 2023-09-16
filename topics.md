@@ -705,7 +705,6 @@
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
@@ -1160,7 +1159,7 @@
 - [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 - [mochan-tk/line-api-use-case-smart-retail](https://github.com/mochan-tk/line-api-use-case-smart-retail) - Smart Retail demo application provided by LINE API Use Case
 - [pluralsight/classic-design-system](https://github.com/pluralsight/classic-design-system) - This library (classic) is officially in maintenance mode only. For the latest library, please see the TVA project (https://pluralsight.github.io/tva/).
-- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way · 🧼 🏛 🍪
+- [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
 - [codyNog/tt-atomic-design](https://github.com/codyNog/tt-atomic-design) - 
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
