@@ -742,6 +742,7 @@
 
 ## http 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -1602,6 +1603,7 @@
 
 ## python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [shiguredo/sora-python-sdk](https://github.com/shiguredo/sora-python-sdk) - WebRTC SFU Sora Python SDK
 - [MilovanTomasevic/Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns) - Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
@@ -1746,6 +1748,7 @@
 
 ## security 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [dvsekhvalnov/jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core
 - [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
