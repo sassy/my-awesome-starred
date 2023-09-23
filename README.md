@@ -685,6 +685,7 @@
 
 ## Python 
 
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [digital-go-jp/mojxml2geojson](https://github.com/digital-go-jp/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
@@ -809,6 +810,7 @@
 
 ## Swift 
 
+- [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [radianttap/Swift-Essentials](https://github.com/radianttap/Swift-Essentials) - A set of essential Swift stuff I use in every single iOS app.
@@ -854,6 +856,7 @@
 
 ## TypeScript 
 
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
