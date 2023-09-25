@@ -810,6 +810,7 @@
 
 ## Swift 
 
+- [apple/swift-testing](https://github.com/apple/swift-testing) - 
 - [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
