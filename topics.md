@@ -574,7 +574,7 @@
 ## frontend 
 
 - [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## game 
 
@@ -694,6 +694,7 @@
 ## hacktoberfest 
 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
@@ -873,7 +874,7 @@
 - [swiftcarrot/react-ui-tree](https://github.com/swiftcarrot/react-ui-tree) - React tree component with  drag & drop
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
@@ -955,7 +956,7 @@
 - [apache/cordova-electron](https://github.com/apache/cordova-electron) - Apache Cordova Electron
 - [ragnor-rs/visum](https://github.com/ragnor-rs/visum) - Android reactive MVP stack
 - [BlackBoxVision/mvp-helpers](https://github.com/BlackBoxVision/mvp-helpers) - ♻️Helper classes to build Android Apps through MVP pattern in a faster way
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 
 ## linux 
@@ -1682,7 +1683,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## react-native 
