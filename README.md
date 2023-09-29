@@ -489,7 +489,7 @@
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [anthonyshort/deku](https://github.com/anthonyshort/deku) - Render interfaces using pure functions and virtual DOM
 - [magalhas/backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) - 
 - [lholmquist/generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) - 
 - [w3c/web-of-things-framework](https://github.com/w3c/web-of-things-framework) - 
