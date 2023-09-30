@@ -269,6 +269,7 @@
 
 ## HTML 
 
+- [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
 - [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs) - The code for the book Learning TensorFlow.js by Gant Laborde - Published by O'Reilly Media
 - [OWASP/www-chapter-japan](https://github.com/OWASP/www-chapter-japan) - OWASP Foundation Web Respository
 - [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CR
@@ -1013,6 +1014,7 @@
 
 ## Vue 
 
+- [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [Tokyo-Metro-Gov/covid19](https://github.com/Tokyo-Metro-Gov/covid19) - 東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
 - [civictechzenchiba/covid19-chiba](https://github.com/civictechzenchiba/covid19-chiba) - 新型コロナウイルス感染症対策サイト［千葉県版］
 - [dzeyelid/decode20-azure-quiz-client](https://github.com/dzeyelid/decode20-azure-quiz-client) - 
