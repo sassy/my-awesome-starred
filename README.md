@@ -32,6 +32,7 @@
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -269,6 +270,7 @@
 
 ## HTML 
 
+- [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
 - [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs) - The code for the book Learning TensorFlow.js by Gant Laborde - Published by O'Reilly Media
 - [OWASP/www-chapter-japan](https://github.com/OWASP/www-chapter-japan) - OWASP Foundation Web Respository
@@ -594,6 +596,10 @@
 ## Nim 
 
 - [momeemt/Unit](https://github.com/momeemt/Unit) - Unit is library of unit types
+
+## Nix 
+
+- [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 
 ## Nunjucks 
 
@@ -1024,6 +1030,8 @@
 
 ## Zig 
 
+- [getty-zig/json](https://github.com/getty-zig/json) - A serialization library for JSON
+- [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
