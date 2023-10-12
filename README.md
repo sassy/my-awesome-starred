@@ -543,7 +543,6 @@
 
 ## Jupyter Notebook 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [contactmodel/COVID19-Japan-Reff](https://github.com/contactmodel/COVID19-Japan-Reff) - 
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 
@@ -626,6 +625,7 @@
 
 - [yanamura/management](https://github.com/yanamura/management) - 
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [johnthagen/sealed-typing-pep](https://github.com/johnthagen/sealed-typing-pep) - A PEP to add a `@sealed` typing decorator to Python
 - [tinp-lab/Mokuren-on-boarding](https://github.com/tinp-lab/Mokuren-on-boarding) - 
