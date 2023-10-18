@@ -482,6 +482,7 @@
 
 ## docker 
 
+- [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
@@ -591,6 +592,7 @@
 
 ## git 
 
+- [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -1065,6 +1067,7 @@
 
 ## nodejs 
 
+- [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1129,6 +1132,7 @@
 
 ## others 
 
+- [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers) - C++ Fixed Containers
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
