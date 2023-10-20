@@ -695,6 +695,7 @@
 
 ## hacktoberfest 
 
+- [pankona/generic-defence-game](https://github.com/pankona/generic-defence-game) - Generic defence game
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
