@@ -237,7 +237,7 @@
 - [auth0/angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps
 - [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
-- [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
+- [angular/angularfire](https://github.com/angular/angularfire) - Angular + Firebase = ❤️
 - [ngrx/example-app](https://github.com/ngrx/example-app) - Example app showcasing the ngrx platform
 - [mgechev/angular-seed](https://github.com/mgechev/angular-seed) - 🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
 - [vmware-archive/clarity](https://github.com/vmware-archive/clarity) - Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.
@@ -548,7 +548,7 @@
 - [micksatana/fireliff-cli](https://github.com/micksatana/fireliff-cli) - Command line interface for building LIFF app on Firebase
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 - [potato4d/nuxt-firebase-sns-example](https://github.com/potato4d/nuxt-firebase-sns-example) - Nuxt v2 & Firebase(Hosting / Functions SSR / Firestore), Google Auth SNS Example.
-- [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
+- [angular/angularfire](https://github.com/angular/angularfire) - Angular + Firebase = ❤️
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
 ## firefox 
@@ -717,7 +717,7 @@
 - [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [ngrx/platform](https://github.com/ngrx/platform) - Reactive State for Angular
 - [swimlane/ngx-dnd](https://github.com/swimlane/ngx-dnd) - 🕶  Drag, Drop and Sorting Library for Angular2 and beyond!
@@ -1132,6 +1132,7 @@
 
 ## others 
 
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers) - C++ Fixed Containers
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
@@ -1753,7 +1754,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [rust-mobile/android-rs-glue](https://github.com/rust-mobile/android-rs-glue) - Glue between Rust and Android
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -1940,7 +1941,7 @@
 - [JetBrains/kotless](https://github.com/JetBrains/kotless) - Kotlin Serverless Framework
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
