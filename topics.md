@@ -288,7 +288,7 @@
 
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
@@ -402,7 +402,7 @@
 ## css 
 
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
 - [svg-net/SVG](https://github.com/svg-net/SVG) - Fork of the ms svg library
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
@@ -498,7 +498,7 @@
 
 ## education 
 
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -593,7 +593,7 @@
 ## git 
 
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -738,7 +738,7 @@
 
 ## html 
 
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [onmyway133/Snowflake](https://github.com/onmyway133/Snowflake) - ❄️  SVG in Swift
@@ -821,7 +821,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [google/budoux](https://github.com/google/budoux) - 
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [storybookjs/addon-designs](https://github.com/storybookjs/addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
@@ -1070,7 +1070,7 @@
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [sassy/node-rss-reporter](https://github.com/sassy/node-rss-reporter) - RSS/ATOM report used e-mail.
 - [Kotlin/kotlinx-nodejs](https://github.com/Kotlin/kotlinx-nodejs) - Kotlin external declarations for using the Node.js API from Kotlin code targeting JavaScript
@@ -1611,7 +1611,7 @@
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
 ## publishing 
 
@@ -1633,7 +1633,7 @@
 - [johnthagen/sealed-typing-pep](https://github.com/johnthagen/sealed-typing-pep) - A PEP to add a `@sealed` typing decorator to Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [google/budoux](https://github.com/google/budoux) - 
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [sassy/practice-python](https://github.com/sassy/practice-python) - for studying Python.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
@@ -1714,7 +1714,7 @@
 ## reactjs 
 
 - [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
