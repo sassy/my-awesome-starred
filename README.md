@@ -375,9 +375,8 @@
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [hedrall/grpc-with-ts-sample](https://github.com/hedrall/grpc-with-ts-sample) - 
 - [mochan-tk/line-api-use-case-smart-retail](https://github.com/mochan-tk/line-api-use-case-smart-retail) - Smart Retail demo application provided by LINE API Use Case
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [KanDai/tap10_pwa](https://github.com/KanDai/tap10_pwa) - PWA実装のサンプルアプリ
 - [aws-amplify-jp/awesome-aws-amplify-ja](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja) - 日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集
@@ -899,6 +898,7 @@
 - [angular-university/ngrx-course](https://github.com/angular-university/ngrx-course) - NgRx (with NgRx Data) -The Complete Guide
 - [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pluralsight/classic-design-system](https://github.com/pluralsight/classic-design-system) - This library (classic) is officially in maintenance mode only. For the latest library, please see the TVA project (https://pluralsight.github.io/tva/).
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
 - [Tinkoff/microzord](https://github.com/Tinkoff/microzord) - Simple and powerful Micro Frontends framework
