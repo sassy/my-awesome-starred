@@ -27,6 +27,7 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
@@ -377,6 +378,13 @@
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## computer-science 
+
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## computer-vision 
 
@@ -1290,7 +1298,6 @@
 - [imajoriri/finger-snap](https://github.com/imajoriri/finger-snap) - 
 - [mike-neck/lambda-swift-app](https://github.com/mike-neck/lambda-swift-app) - Swift で Lambda やるぞ
 - [imajoriri/love-clova](https://github.com/imajoriri/love-clova) - 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [niiyz/JapanCityGeoJson](https://github.com/niiyz/JapanCityGeoJson) - GeoJson of Japanese cities.  and TopoJson.
 - [stachibana/cek-handson-fortune](https://github.com/stachibana/cek-handson-fortune) - 
 - [cheerup-ehime/MinchizuUploader](https://github.com/cheerup-ehime/MinchizuUploader) - みんなの地図for復興支援 (https://minchizu-e6818.firebaseapp.com/) へ場所情報をGoogle Spreadsheetのリストから取得し、Chrome Driverで無理やり登録するツール。
