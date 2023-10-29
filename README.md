@@ -775,13 +775,13 @@
 
 ## Rust 
 
+- [mozilla/neqo](https://github.com/mozilla/neqo) - 
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [mozilla/neqo](https://github.com/mozilla/neqo) - 
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [rust-mobile/android-rs-glue](https://github.com/rust-mobile/android-rs-glue) - Glue between Rust and Android
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
