@@ -174,6 +174,7 @@
 
 ## android 
 
+- [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [DroidKaigi/conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - The Official Conference App for DroidKaigi 2023
 - [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
@@ -772,6 +773,7 @@
 
 ## ios 
 
+- [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
@@ -933,6 +935,7 @@
 
 ## kotlin 
 
+- [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
 - [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
@@ -1728,6 +1731,7 @@
 
 ## redux 
 
+- [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - TodoMVC for Flutter
 - [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
