@@ -704,6 +704,7 @@
 
 ## hacktoberfest 
 
+- [orbit-mvi/orbit-mvi](https://github.com/orbit-mvi/orbit-mvi) - A simple MVI framework for Kotlin Multiplatform and Android
 - [pankona/generic-defence-game](https://github.com/pankona/generic-defence-game) - Generic defence game
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
