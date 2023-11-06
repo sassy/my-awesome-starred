@@ -410,7 +410,7 @@
 - [mtoukei/statbox2](https://github.com/mtoukei/statbox2) - 「新みやざき統計BOX」データ可視化機能のプロトタイプ
 - [apache/cordova-electron](https://github.com/apache/cordova-electron) - Apache Cordova Electron
 - [imajoriri/love-clova](https://github.com/imajoriri/love-clova) - 
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
 - [stachibana/cek-handson-fortune](https://github.com/stachibana/cek-handson-fortune) - 
 - [kikutaro/SakamichiRpgPartyGenerator](https://github.com/kikutaro/SakamichiRpgPartyGenerator) - RPG Party Generator for Sakamichi Group.
