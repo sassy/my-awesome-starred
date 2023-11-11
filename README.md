@@ -805,7 +805,7 @@
 
 ## Scala 
 
-- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
+- [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 - [twitter/finatra](https://github.com/twitter/finatra) - Fast, testable, Scala services built on TwitterServer and Finagle
 - [scalate/scalate](https://github.com/scalate/scalate) - Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.
 
@@ -872,7 +872,7 @@
 ## TypeScript 
 
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
