@@ -583,7 +583,7 @@
 - [ragnor-rs/visum](https://github.com/ragnor-rs/visum) - Android reactive MVP stack
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [guregu/kami](https://github.com/guregu/kami) - web "framework" with context
-- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
+- [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 - [twitter/finatra](https://github.com/twitter/finatra) - Fast, testable, Scala services built on TwitterServer and Finagle
 
 ## frontend 
@@ -749,7 +749,7 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [apache/cordova-android](https://github.com/apache/cordova-android) - Apache Cordova Android
-- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
+- [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## html 
@@ -827,7 +827,7 @@
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [apache/cordova-android](https://github.com/apache/cordova-android) - Apache Cordova Android
-- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
+- [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 
 ## javascript 
 
@@ -1055,7 +1055,7 @@
 
 ## nextjs 
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -1784,7 +1784,7 @@
 ## scala 
 
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
-- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
+- [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 - [twitter/finatra](https://github.com/twitter/finatra) - Fast, testable, Scala services built on TwitterServer and Finagle
 - [scalate/scalate](https://github.com/scalate/scalate) - Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.
 
