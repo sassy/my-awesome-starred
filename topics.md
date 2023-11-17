@@ -1390,7 +1390,7 @@
 - [jonathantneal/event-observer](https://github.com/jonathantneal/event-observer) - Treat DOM events like Arrays
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [pankona/mypr](https://github.com/pankona/mypr) - 
-- [component/merge-descriptors](https://github.com/component/merge-descriptors) - Merge objects using descriptors
+- [sindresorhus/merge-descriptors](https://github.com/sindresorhus/merge-descriptors) - Merge objects using their property descriptors
 - [w3c/csswg-test](https://github.com/w3c/csswg-test) - The former CSS WG test repository
 - [google/netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
