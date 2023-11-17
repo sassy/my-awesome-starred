@@ -451,7 +451,7 @@
 - [jonathantneal/event-observer](https://github.com/jonathantneal/event-observer) - Treat DOM events like Arrays
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [component/merge-descriptors](https://github.com/component/merge-descriptors) - Merge objects using descriptors
+- [sindresorhus/merge-descriptors](https://github.com/sindresorhus/merge-descriptors) - Merge objects using their property descriptors
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
