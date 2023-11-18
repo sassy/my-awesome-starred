@@ -137,6 +137,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1810,6 +1811,10 @@
 
 - [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and painless smart migrations
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
+
+## sqlite 
+
+- [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and painless smart migrations
 
 ## storybook 
 
