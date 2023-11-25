@@ -400,7 +400,6 @@
 - [zurb/tribute](https://github.com/zurb/tribute) - ES6 Native @mentions
 - [sassy/dccs](https://github.com/sassy/dccs) - get Delay Certificate of JR Chuo-Sobu Line.
 - [notatestuser/node-copy-paste](https://github.com/notatestuser/node-copy-paste) - A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.
-- [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [line/line-liff-v2-starter](https://github.com/line/line-liff-v2-starter) - This is a small web application that demonstrates the basic functionality of the LINE Front-end Framework (LIFF).
 - [cto-a/dxcriteria](https://github.com/cto-a/dxcriteria) - DX Criteria: the Criteria for Two DXs (Digital Transformation and Developer eXperience)
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -942,6 +941,7 @@
 - [Path-Check/safeplaces-dct-app](https://github.com/Path-Check/safeplaces-dct-app) - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [diescake/igata](https://github.com/diescake/igata) - [deprecated] igata is my boilerplate for Web Frontend.
+- [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [valor-software/ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular based on Chart.js
 - [yomotsu/camera-controls](https://github.com/yomotsu/camera-controls) - A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js
