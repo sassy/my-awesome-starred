@@ -568,6 +568,7 @@
 
 ## firefox 
 
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC written in Rust
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [webdino/gecko-embedded](https://github.com/webdino/gecko-embedded) - Main (meta) repository for Project GEM (Gecko Embedded)
 
@@ -1149,7 +1150,6 @@
 
 ## others 
 
-- [mozilla/neqo](https://github.com/mozilla/neqo) - 
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers) - C++ Fixed Containers
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
@@ -1765,6 +1765,7 @@
 
 ## rust 
 
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC written in Rust
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
