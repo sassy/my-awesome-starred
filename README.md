@@ -552,7 +552,7 @@
 - [orbit-mvi/orbit-mvi](https://github.com/orbit-mvi/orbit-mvi) - A simple MVI framework for Kotlin Multiplatform and Android
 - [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [DroidKaigi/conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - The Official Conference App for DroidKaigi 2023
-- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [DroidKaigi/conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) - The Official Conference App for DroidKaigi 2022
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
