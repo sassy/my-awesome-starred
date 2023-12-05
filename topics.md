@@ -178,7 +178,7 @@
 
 - [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [DroidKaigi/conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - The Official Conference App for DroidKaigi 2023
-- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [DroidKaigi/conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) - The Official Conference App for DroidKaigi 2022
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -780,7 +780,7 @@
 ## ios 
 
 - [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
-- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -942,7 +942,7 @@
 ## kotlin 
 
 - [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
-- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
 - [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
@@ -1856,7 +1856,7 @@
 ## swiftui 
 
 - [DroidKaigi/conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - The Official Conference App for DroidKaigi 2023
-- [Oztechan/CCC](https://github.com/Oztechan/CCC) - :moneybag: Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
+- [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
