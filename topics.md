@@ -115,6 +115,7 @@
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -1623,6 +1624,12 @@
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
+## privacy 
+
+- [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
+- [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
 ## programming 
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -1815,6 +1822,7 @@
 
 ## sqlite 
 
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
 - [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and painless smart migrations
 
 ## storybook 
