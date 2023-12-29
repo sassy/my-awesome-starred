@@ -132,6 +132,7 @@
 - [libmx3/mx3](https://github.com/libmx3/mx3) - a sample project showcasing/collecting cross platform techniques on mobile
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [pankona/KonaReflection](https://github.com/pankona/KonaReflection) - Breakout (ブロック崩し) using cocos2d-x
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
@@ -349,7 +350,6 @@
 - [gree/aurora](https://github.com/gree/aurora) - AuroraはI/OをシャーディングするためのJava/Scala向けライブラリです。
 - [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [apache/xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) - Apache XML Graphics Batik
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 - [xxv/android-lifecycle](https://github.com/xxv/android-lifecycle) - A diagram of the Android Activity / Fragment lifecycle
 - [nowsprinting/AndroidAppsTestAutomationSamples](https://github.com/nowsprinting/AndroidAppsTestAutomationSamples) - @IT連載『スマホ向け無料システムテスト自動化ツール』Androidサンプルコード
