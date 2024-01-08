@@ -273,6 +273,7 @@
 
 ## HTML 
 
+- [willnet/rspec-style-guide](https://github.com/willnet/rspec-style-guide) - 可読性の高いテストコードを書くためのお作法集
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
 - [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs) - The code for the book Learning TensorFlow.js by Gant Laborde - Published by O'Reilly Media
