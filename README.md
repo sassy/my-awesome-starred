@@ -816,7 +816,7 @@
 ## Shell 
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [artem-zinnatullin/RxJavaProGuardRules](https://github.com/artem-zinnatullin/RxJavaProGuardRules) - ProGuard rules for RxJava shipped as AAR!
 - [kasaharu/scriptForGitHub](https://github.com/kasaharu/scriptForGitHub) - 
 - [isaacs/nave](https://github.com/isaacs/nave) - Virtual Environments for Node
