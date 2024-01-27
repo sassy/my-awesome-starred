@@ -155,6 +155,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -2001,6 +2002,11 @@
 - [vmware-archive/clarity](https://github.com/vmware-archive/clarity) - Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.
 - [skatejs/skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+
+## web-development 
+
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 
 ## webapp 
 
