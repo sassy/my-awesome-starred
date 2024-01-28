@@ -929,7 +929,7 @@
 
 ## json 
 
-- [getty-zig/json](https://github.com/getty-zig/json) - A serialization library for JSON
+- [getty-zig/json](https://github.com/getty-zig/json) - A (de)serialization library for JSON
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [dvsekhvalnov/jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
