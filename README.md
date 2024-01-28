@@ -1038,7 +1038,7 @@
 
 ## Zig 
 
-- [getty-zig/json](https://github.com/getty-zig/json) - A serialization library for JSON
+- [getty-zig/json](https://github.com/getty-zig/json) - A (de)serialization library for JSON
 - [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
