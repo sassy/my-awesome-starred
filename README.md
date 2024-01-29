@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -52,10 +51,6 @@
 - [VBScript](#vbscript)
 - [Vue](#vue)
 - [Zig](#zig)
-
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -287,6 +282,7 @@
 - [kuramot6f/mental-health](https://github.com/kuramot6f/mental-health) - Mental Health Tips (ft. Anxiety Wolf)
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [cheerup-ehime/cheerup-ehime.github.io](https://github.com/cheerup-ehime/cheerup-ehime.github.io) - jekyll site for this organization
 - [DroidKaigi/conference-app-2017](https://github.com/DroidKaigi/conference-app-2017) - The Official Conference App for DroidKaigi 2017 Tokyo
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
@@ -306,7 +302,7 @@
 
 ## Java 
 
-- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [android/animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [mike-neck/graalvm-native-image-plugin](https://github.com/mike-neck/graalvm-native-image-plugin) - A Gradle plugin which creates a native executable via GraalVM's native-image. This is a thin wrapper of the native-image command.
