@@ -632,7 +632,6 @@
 - [johnthagen/sealed-typing-pep](https://github.com/johnthagen/sealed-typing-pep) - A PEP to add a `@sealed` typing decorator to Python
 - [tinp-lab/Mokuren-on-boarding](https://github.com/tinp-lab/Mokuren-on-boarding) - 
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
-- [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 - [aozorahack/aozorahack](https://github.com/aozorahack/aozorahack) - aozorahack全般に関するissue/wiki用リポジトリです
 - [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
 - [pickhardt/maintainers-wanted](https://github.com/pickhardt/maintainers-wanted) - List of projects looking for new lead maintainers, either abandoned or just looking for someone else to lead.
