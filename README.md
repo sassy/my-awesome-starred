@@ -16,6 +16,7 @@
 - [EJS](#ejs)
 - [Eagle](#eagle)
 - [Elixir](#elixir)
+- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f#)
 - [FreeMarker](#freemarker)
@@ -173,6 +174,10 @@
 - [skirino/croma](https://github.com/skirino/croma) - Elixir macro utilities to make type-based programming easier
 - [access-company/antikythera](https://github.com/access-company/antikythera) - Elixir framework to build your own in-house PaaS
 - [ma2gedev/power_assert_ex](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
+
+## Emacs Lisp 
+
+- [defunkt/coffee-mode](https://github.com/defunkt/coffee-mode) - Emacs Major Mode for CoffeeScript
 
 ## Erlang 
 
