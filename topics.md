@@ -1609,6 +1609,7 @@
 - [themattharris/tmhOAuth](https://github.com/themattharris/tmhOAuth) - An OAuth 1.0A library written in PHP
 - [debreuil/Swf2XNA](https://github.com/debreuil/Swf2XNA) - Use Flash to create XNA games (now works with XNA4). Thanks to Patrick Godwin, now works with WinPhone7 as well!
 - [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
+- [defunkt/coffee-mode](https://github.com/defunkt/coffee-mode) - Emacs Major Mode for CoffeeScript
 - [gitster/git](https://github.com/gitster/git) - Git - the stupid content tracker - This is a publish-only "broken out" repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvement
 
 ## p2p 
