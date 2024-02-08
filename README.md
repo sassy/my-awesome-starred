@@ -570,7 +570,7 @@
 - [lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [AAkira/dagger-hilt-example](https://github.com/AAkira/dagger-hilt-example) - This repository is an example of the dagger android hilt plugin using an android view model
-- [ConnectyCube/android-messenger-app](https://github.com/ConnectyCube/android-messenger-app) - A messenger demo app for Android using ConnectyCube platform
+- [ConnectyCube/android-messenger-app](https://github.com/ConnectyCube/android-messenger-app) - Chat and voice / video calling app using ConnectyCube
 - [JetBrains/kotless](https://github.com/JetBrains/kotless) - Kotlin Serverless Framework
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 - [android/databinding-samples](https://github.com/android/databinding-samples) - 
@@ -867,6 +867,7 @@
 
 ## TypeScript 
 
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
