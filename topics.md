@@ -782,7 +782,7 @@
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
-- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
+- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1093,7 +1093,7 @@
 
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
+- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
 - [sassy/dccs](https://github.com/sassy/dccs) - get Delay Certificate of JR Chuo-Sobu Line.
 - [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
 - [nodejs/installer](https://github.com/nodejs/installer) - Electron based installer for Node.js.
@@ -1112,7 +1112,7 @@
 - [sassy/node-rss-reporter](https://github.com/sassy/node-rss-reporter) - RSS/ATOM report used e-mail.
 - [Kotlin/kotlinx-nodejs](https://github.com/Kotlin/kotlinx-nodejs) - Kotlin external declarations for using the Node.js API from Kotlin code targeting JavaScript
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
-- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
+- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
 - [sassy/dccs](https://github.com/sassy/dccs) - get Delay Certificate of JR Chuo-Sobu Line.
 - [line/line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) - LINE Messaging API SDK for Node.js
 - [apache/cordova-electron](https://github.com/apache/cordova-electron) - Apache Cordova Electron
