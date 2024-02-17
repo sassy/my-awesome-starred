@@ -932,7 +932,7 @@
 - [azu/github-actions-badge](https://github.com/azu/github-actions-badge) - Generate GitHub Actions badge Markdown code.
 - [sassy/review-badge-crx](https://github.com/sassy/review-badge-crx) - Chrome Extension for review badge
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
-- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level HTTP/HTTPS/XHR/fetch request interception library.
+- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
