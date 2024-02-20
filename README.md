@@ -639,7 +639,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [MayumiKamio/edubase](https://github.com/MayumiKamio/edubase) - 
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [pankona/pankona](https://github.com/pankona/pankona) - 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [mercari/mercari-slack-guidelines](https://github.com/mercari/mercari-slack-guidelines) - Slack guidelines of Mercari.
