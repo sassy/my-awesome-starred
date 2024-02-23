@@ -735,7 +735,7 @@
 - [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [nowsprinting/ios-build](https://github.com/nowsprinting/ios-build) - Build script for iOS Application project
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [sassy/rto](https://github.com/sassy/rto) - Open Redmine ticket of myself to browser.
 - [FikaNote/FikaNote](https://github.com/FikaNote/FikaNote) - ShowNote service.
 - [nwjs/nw-gyp](https://github.com/nwjs/nw-gyp) - native addon build tool for node-webkit
