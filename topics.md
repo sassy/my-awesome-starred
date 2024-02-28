@@ -902,7 +902,7 @@
 - [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [MoOx/postcss-cssnext](https://github.com/MoOx/postcss-cssnext) - `postcss-cssnext` has been deprecated in favor of `postcss-preset-env`.
-- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [swiftcarrot/react-ui-tree](https://github.com/swiftcarrot/react-ui-tree) - React tree component with  drag & drop
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
@@ -1620,7 +1620,7 @@
 ## p2p 
 
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)
-- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 
 ## package-manager 
 
@@ -1959,7 +1959,7 @@
 - [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions
 - [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
 ## virtual-reality 
