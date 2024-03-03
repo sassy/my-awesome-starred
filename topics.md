@@ -103,6 +103,7 @@
 - [mongodb](#mongodb)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [nextjs](#nextjs)
 - [nim](#nim)
 - [nlp](#nlp)
@@ -1069,6 +1070,11 @@
 ## mysql 
 
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+
+## natural-language-processing 
+
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 
 ## nextjs 
 
