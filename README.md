@@ -280,6 +280,7 @@
 - [kasaharu/ng-basis](https://github.com/kasaharu/ng-basis) - 
 - [codeforjapan/vs-covid19](https://github.com/codeforjapan/vs-covid19) - VS COVID-19 企業による支援リスト（政府提供オープンデータ使用）
 - [kuramot6f/mental-health](https://github.com/kuramot6f/mental-health) - Mental Health Tips (ft. Anxiety Wolf)
+- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
@@ -308,7 +309,6 @@
 - [mike-neck/graalvm-native-image-plugin](https://github.com/mike-neck/graalvm-native-image-plugin) - A Gradle plugin which creates a native executable via GraalVM's native-image. This is a thin wrapper of the native-image command.
 - [kawasima/savanna-maven-plugin](https://github.com/kawasima/savanna-maven-plugin) - A maven plugin for preventing no tests or to skip testing.
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
-- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [mike-neck/gradle-native-example](https://github.com/mike-neck/gradle-native-example) - Compile Java application with JNI, and cpp project using Gradle's `cpp-plugin`.
 - [stfalcon-studio/ChatKit](https://github.com/stfalcon-studio/ChatKit) - Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon
 - [kikutaro/SakamichiRpgPartyGeneratorApp](https://github.com/kikutaro/SakamichiRpgPartyGeneratorApp) - RPG Party Generator Web Application for Sakamichi Group.
