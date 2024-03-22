@@ -1069,7 +1069,7 @@
 
 ## mysql 
 
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 
 ## natural-language-processing 
 
@@ -1079,7 +1079,7 @@
 ## nextjs 
 
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -1169,7 +1169,7 @@
 
 ## open-source 
 
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
@@ -1922,7 +1922,7 @@
 
 ## typescript 
 
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 - [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
