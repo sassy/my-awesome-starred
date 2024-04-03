@@ -749,7 +749,7 @@
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [ngrx/platform](https://github.com/ngrx/platform) - Reactive State for Angular
 - [swimlane/ngx-dnd](https://github.com/swimlane/ngx-dnd) - 🕶  Drag, Drop and Sorting Library for Angular2 and beyond!
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera) - Apache Cordova Plugin camera
@@ -1039,7 +1039,7 @@
 
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
 ## microsoft 
@@ -1740,7 +1740,7 @@
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [swiftcarrot/react-ui-tree](https://github.com/swiftcarrot/react-ui-tree) - React tree component with  drag & drop
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
