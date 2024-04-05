@@ -76,6 +76,7 @@
 - [graphql](#graphql)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
@@ -719,6 +720,10 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
 ## hacking 
+
+- [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
+
+## hacking-tool 
 
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 
