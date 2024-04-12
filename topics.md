@@ -748,7 +748,6 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
