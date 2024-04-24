@@ -55,6 +55,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
@@ -557,6 +558,12 @@
 
 - [access-company/antikythera](https://github.com/access-company/antikythera) - Elixir framework to build your own in-house PaaS
 - [ma2gedev/power_assert_ex](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
+
+## embedded 
+
+- [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
+- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
+- [Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 
 ## emoji 
 
@@ -1197,8 +1204,6 @@
 - [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
-- [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
-- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
 - [azu/learning-zig](https://github.com/azu/learning-zig) - 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
