@@ -647,7 +647,6 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [MayumiKamio/edubase](https://github.com/MayumiKamio/edubase) - 
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [pankona/pankona](https://github.com/pankona/pankona) - 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [mercari/mercari-slack-guidelines](https://github.com/mercari/mercari-slack-guidelines) - Slack guidelines of Mercari.
@@ -786,6 +785,7 @@
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -827,7 +827,7 @@
 
 ## Swift 
 
-- [apple/swift-testing](https://github.com/apple/swift-testing) - 
+- [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
 - [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
