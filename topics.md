@@ -34,6 +34,7 @@
 - [computer-vision](#computer-vision)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -427,6 +428,10 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [MilovanTomasevic/Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns) - Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
 - [mattn/clask](https://github.com/mattn/clask) - Web micro-framework like flask in C++.
+
+## cryptography 
+
+- [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 
 ## csharp 
 
