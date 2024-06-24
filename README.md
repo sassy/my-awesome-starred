@@ -633,6 +633,7 @@
 
 ## Others 
 
+- [mike-neck/example-k8s-study](https://github.com/mike-neck/example-k8s-study) - K8s の勉強してる
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [yanamura/management](https://github.com/yanamura/management) - 
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
