@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [mike-neck/example-k8s-study](https://github.com/mike-neck/example-k8s-study) - K8s の勉強してる
 - [willnet/rspec-style-guide](https://github.com/willnet/rspec-style-guide) - 可読性の高いテストコードを書くためのお作法集
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers) - C++ Fixed Containers
