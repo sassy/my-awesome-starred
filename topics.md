@@ -1882,7 +1882,7 @@
 ## swift 
 
 - [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
-- [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
+- [swiftlang/swift-sdk-generator](https://github.com/swiftlang/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [MilovanTomasevic/Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns) - Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
