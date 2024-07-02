@@ -320,7 +320,6 @@
 - [stfalcon-studio/ChatKit](https://github.com/stfalcon-studio/ChatKit) - Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon
 - [kikutaro/SakamichiRpgPartyGeneratorApp](https://github.com/kikutaro/SakamichiRpgPartyGeneratorApp) - RPG Party Generator Web Application for Sakamichi Group.
 - [awslabs/dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [Froussios/Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava
 - [androidstarters/android-starter](https://github.com/androidstarters/android-starter) - [Android Architecture] Android starter based on MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Android template project.
 - [janishar/android-mvp-architecture](https://github.com/janishar/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
@@ -583,6 +582,7 @@
 - [burakeregar/KotlinMvpArchitecture](https://github.com/burakeregar/KotlinMvpArchitecture) - Clean MVP Architecture with Dagger2 + Retrofit2 + Mockito + Fresco + EasiestGenericRecyclerAdapter using Kotlin. Added Unit Tests(Kotlin Tests)!
 - [general-mobile/kotlin-android-mvp-starter](https://github.com/general-mobile/kotlin-android-mvp-starter) - Create/Generate your kotlin MVP projects easily
 - [binaryroot/AndroidArchitecture](https://github.com/binaryroot/AndroidArchitecture) - Android Architecture using Google guides
+- [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [myinnos/Kotlin-Example](https://github.com/myinnos/Kotlin-Example) - An example for who are all going to start learning Kotlin programming language to develop Android application.
 - [nekocode/create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) - Create kotlin android project with one line of command.
 - [ahmedeltaher/MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
