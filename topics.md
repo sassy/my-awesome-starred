@@ -1248,6 +1248,7 @@
 - [kmizu/kotbinator](https://github.com/kmizu/kotbinator) - Parser Combinator Library in Kotlin
 - [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 - [mochan-tk/line-api-use-case-smart-retail](https://github.com/mochan-tk/line-api-use-case-smart-retail) - Smart Retail demo application provided by LINE API Use Case
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pluralsight/classic-design-system](https://github.com/pluralsight/classic-design-system) - This library (classic) is officially in maintenance mode only. For the latest library, please see the TVA project (https://pluralsight.github.io/tva/).
 - [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way.
 - [codyNog/tt-atomic-design](https://github.com/codyNog/tt-atomic-design) - 
@@ -1933,7 +1934,6 @@
 
 - [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [hirezio/observer-spy](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [okunokentaro/ngx-testbedder](https://github.com/okunokentaro/ngx-testbedder) - CLI tool for writing the test bed for Angular integration test
