@@ -117,6 +117,7 @@
 - [shiguredo/sora-python-sdk](https://github.com/shiguredo/sora-python-sdk) - WebRTC SFU Sora Python SDK
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 - [mattn/clask](https://github.com/mattn/clask) - Web micro-framework like flask in C++.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -616,7 +617,6 @@
 ## Objective-C 
 
 - [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS
-- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 - [HeshamMegid/HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - A highly customizable drop-in replacement for UISegmentedControl.
 - [apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera) - Apache Cordova Plugin camera
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
