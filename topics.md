@@ -1632,7 +1632,7 @@
 - [sassy/UnixTime](https://github.com/sassy/UnixTime) - UnixTime
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 - [fasterthanlime/jsmad](https://github.com/fasterthanlime/jsmad) - :saxophone: Javascript MPEG-1 Audio Layer III (mp3) and ID3v2 decoder
-- [aerykk/node-flash](https://github.com/aerykk/node-flash) - Library which runs .swf Flash files natively in Node.js
+- [highruned/node-flash](https://github.com/highruned/node-flash) - Library which runs .swf Flash files natively in Node.js
 - [danlucraft/git.js](https://github.com/danlucraft/git.js) - pure-Javascript Git implementation
 - [johannilsson/android-actionbar](https://github.com/johannilsson/android-actionbar) - DEPRECATED Android Action Bar Implementation
 - [strk/gnash](https://github.com/strk/gnash) - The GNU SWF Player
