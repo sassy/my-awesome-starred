@@ -134,7 +134,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
-- [aerykk/node-flash](https://github.com/aerykk/node-flash) - Library which runs .swf Flash files natively in Node.js
+- [highruned/node-flash](https://github.com/highruned/node-flash) - Library which runs .swf Flash files natively in Node.js
 - [strk/gnash](https://github.com/strk/gnash) - The GNU SWF Player
 
 ## CSS 
