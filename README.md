@@ -115,6 +115,7 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [shiguredo/sora-python-sdk](https://github.com/shiguredo/sora-python-sdk) - WebRTC SFU Sora Python SDK
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
@@ -637,7 +638,6 @@
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [yanamura/management](https://github.com/yanamura/management) - 
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [johnthagen/sealed-typing-pep](https://github.com/johnthagen/sealed-typing-pep) - A PEP to add a `@sealed` typing decorator to Python
 - [tinp-lab/Mokuren-on-boarding](https://github.com/tinp-lab/Mokuren-on-boarding) - 
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
