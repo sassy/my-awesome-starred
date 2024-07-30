@@ -722,7 +722,7 @@
 - [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 - [succhiello/typedtuple](https://github.com/succhiello/typedtuple) - namedtuple with type definition
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [MagiCircles/SchoolIdolAPI](https://github.com/MagiCircles/SchoolIdolAPI) - The ultimate resource for LLSIF players
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
