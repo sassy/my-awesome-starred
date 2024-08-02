@@ -1882,7 +1882,7 @@
 
 ## swift 
 
-- [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
+- [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [swiftlang/swift-sdk-generator](https://github.com/swiftlang/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [MilovanTomasevic/Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns) - Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
@@ -1932,7 +1932,7 @@
 
 ## testing 
 
-- [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
+- [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [hirezio/observer-spy](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
