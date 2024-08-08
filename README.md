@@ -115,7 +115,6 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [shiguredo/sora-python-sdk](https://github.com/shiguredo/sora-python-sdk) - WebRTC SFU Sora Python SDK
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
@@ -373,6 +372,7 @@
 - [tronicboy1/svelte-rxjs-subjects](https://github.com/tronicboy1/svelte-rxjs-subjects) - An extension of RxJS subjects to be used as Svelte Stores
 - [zach-hopkins/create-t3svelte-app](https://github.com/zach-hopkins/create-t3svelte-app) - Quick T3 Stack with SvelteKit for rapid deployment of highly performant typesafe web apps.
 - [kt3k/browser-streaming-examples](https://github.com/kt3k/browser-streaming-examples) - examples to perform streaming in browsers
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
@@ -515,6 +515,7 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [entropi/grunt-electron-app-builder](https://github.com/entropi/grunt-electron-app-builder) - grunt plugin to ease the building of atom-shell based applications
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [shama/nodewebkit](https://github.com/shama/nodewebkit) - :computer: An installer for node-webkit
 - [nwutils/nw-builder](https://github.com/nwutils/nw-builder) - Build NW.js applications for Linux, MacOS and Windows
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
@@ -1019,7 +1020,6 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
 
