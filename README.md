@@ -999,7 +999,7 @@
 - [InfomediaLtd/angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize) - Angular 2 support for Materialize CSS framework.
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [angular-redux/store](https://github.com/angular-redux/store) - Angular 2+ bindings for Redux
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
