@@ -1219,6 +1219,7 @@
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler.
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
+- [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
 - [azu/learning-zig](https://github.com/azu/learning-zig) - 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
@@ -2097,7 +2098,6 @@
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
-- [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [shiguredo/rebar3_zig](https://github.com/shiguredo/rebar3_zig) - Rebar3 plugin to call Zig functions from Erlang using NIF
 - [mattn/zig-curl](https://github.com/mattn/zig-curl) - cURL binding for Zig
