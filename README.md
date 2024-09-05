@@ -199,6 +199,7 @@
 ## Go 
 
 - [watermint/toolbox](https://github.com/watermint/toolbox) - The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system ad
+- [mike-neck/example-k8s-study](https://github.com/mike-neck/example-k8s-study) - K8s の勉強してる
 - [pankona/generic-defence-game](https://github.com/pankona/generic-defence-game) - Generic defence game
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mattn/golisp](https://github.com/mattn/golisp) - Lisp Interpreter
@@ -635,7 +636,6 @@
 
 ## Others 
 
-- [mike-neck/example-k8s-study](https://github.com/mike-neck/example-k8s-study) - K8s の勉強してる
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [yanamura/management](https://github.com/yanamura/management) - 
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
