@@ -1967,6 +1967,7 @@
 
 ## typescript 
 
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
