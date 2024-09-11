@@ -893,7 +893,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [sassy/dccs-deno](https://github.com/sassy/dccs-deno) - get Delay Certificate of JR Chuo-Sobu Line.
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [reactjs/ja.react.dev](https://github.com/reactjs/ja.react.dev) - React documentation website in Japanese
 - [hisasann/gas-typescript-starter](https://github.com/hisasann/gas-typescript-starter) - 🍡 Google Apps Script + TypeScript + lerna 🍼
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
