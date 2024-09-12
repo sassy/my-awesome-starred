@@ -24,7 +24,6 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Hack](#hack)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -136,6 +135,7 @@
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
 - [highruned/node-flash](https://github.com/highruned/node-flash) - Library which runs .swf Flash files natively in Node.js
 - [strk/gnash](https://github.com/strk/gnash) - The GNU SWF Player
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## CSS 
 
@@ -301,10 +301,6 @@
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [sassy/sassy.github.com](https://github.com/sassy/sassy.github.com) - 
-
-## Hack 
-
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## Haskell 
 
