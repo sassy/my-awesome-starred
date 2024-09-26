@@ -779,6 +779,7 @@
 
 ## Rust 
 
+- [shiguredo/mp4-rust](https://github.com/shiguredo/mp4-rust) - MP4 library
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
