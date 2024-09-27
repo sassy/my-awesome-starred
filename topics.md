@@ -348,7 +348,7 @@
 
 ## c 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
 - [lekkas/c-algorithms](https://github.com/lekkas/c-algorithms) - An experimental C library of common data structures and algorithms
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
@@ -720,7 +720,7 @@
 
 ## good-first-issue 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## gradle 
@@ -764,6 +764,7 @@
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs) - The code for the book Learning TensorFlow.js by Gant Laborde - Published by O'Reilly Media
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -1024,7 +1025,7 @@
 
 ## library 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
 - [momeemt/Unit](https://github.com/momeemt/Unit) - Unit is library of unit types
 - [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 - [radianttap/Swift-Essentials](https://github.com/radianttap/Swift-Essentials) - A set of essential Swift stuff I use in every single iOS app.
@@ -1895,7 +1896,7 @@
 
 ## sqlite 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
 - [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and painless smart migrations
 
 ## storybook 
