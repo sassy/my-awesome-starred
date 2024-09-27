@@ -65,7 +65,7 @@
 
 - [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
 - [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc) - mruby/c is another implementation of mruby.
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
 - [karino2/c-lesson](https://github.com/karino2/c-lesson) - karino2の暇つぶしプログラム教室のC言語を教えるのに使うgithub pageのレポジトリです。
 - [lekkas/c-algorithms](https://github.com/lekkas/c-algorithms) - An experimental C library of common data structures and algorithms
 - [jvns/kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
