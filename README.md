@@ -1046,7 +1046,7 @@
 - [getty-zig/json](https://github.com/getty-zig/json) - A (de)serialization library for JSON
 - [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
-- [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
+- [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Command line argument parsing library
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [azu/learning-zig](https://github.com/azu/learning-zig) - 
 - [mattn/zig-curl](https://github.com/mattn/zig-curl) - cURL binding for Zig
