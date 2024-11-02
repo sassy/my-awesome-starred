@@ -556,7 +556,7 @@
 - [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
 - [DroidKaigi/conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) - The Official Conference App for DroidKaigi 2022
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework - Android Repository
 - [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
 - [jimgoog/ComposeAppUsingPrereleaseComposeCompiler](https://github.com/jimgoog/ComposeAppUsingPrereleaseComposeCompiler) - Demonstrates using Compose with pre-releases of KotlinCompiler and ComposeCompiler
 - [mkurom/Kotlin_sampleApp](https://github.com/mkurom/Kotlin_sampleApp) - Kotlin勉強用
