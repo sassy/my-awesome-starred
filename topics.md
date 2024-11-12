@@ -995,6 +995,7 @@
 
 - [reduxkotlin/redux-kotlin](https://github.com/reduxkotlin/redux-kotlin) - Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 - [Oztechan/CCC](https://github.com/Oztechan/CCC) - 💰 Currency Converter Calculator for Android, iOS and Backend with power of Kotlin Multiplatform :muscle:
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
 - [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator) - Public API management tool
 - [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
