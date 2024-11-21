@@ -283,6 +283,7 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [kasaharu/ng-basis](https://github.com/kasaharu/ng-basis) - 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [codeforjapan/vs-covid19](https://github.com/codeforjapan/vs-covid19) - VS COVID-19 企業による支援リスト（政府提供オープンデータ使用）
 - [kuramot6f/mental-health](https://github.com/kuramot6f/mental-health) - Mental Health Tips (ft. Anxiety Wolf)
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
@@ -648,7 +649,6 @@
 - [pankona/pankona](https://github.com/pankona/pankona) - 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [mercari/mercari-slack-guidelines](https://github.com/mercari/mercari-slack-guidelines) - Slack guidelines of Mercari.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [S-O-L-A-R/liff-type](https://github.com/S-O-L-A-R/liff-type) - Type definition for LINE Frontend Framework
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [gfx/android-oss-best-practices](https://github.com/gfx/android-oss-best-practices) - Best practices on creating Android OSS library projects [JA]
