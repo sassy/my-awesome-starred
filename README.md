@@ -477,7 +477,7 @@
 - [kripken/webgl-worker](https://github.com/kripken/webgl-worker) - 
 - [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
 - [PexJS/PexJS](https://github.com/PexJS/PexJS) - HTML5 Flash Lite 1.1 Runtime Engine
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [sassy/hashire](https://github.com/sassy/hashire) - play "走れ!" video in command line.
 - [kbwood/svg](https://github.com/kbwood/svg) - jQuery SVG plugin
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
