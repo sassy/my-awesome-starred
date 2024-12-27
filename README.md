@@ -779,6 +779,7 @@
 
 ## Rust 
 
+- [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
 - [katayama8000/expo-push-notification-client-rust](https://github.com/katayama8000/expo-push-notification-client-rust) - Official Expo Push Notification Client for Rust
 - [shiguredo/mp4-rust](https://github.com/shiguredo/mp4-rust) - MP4 library
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
