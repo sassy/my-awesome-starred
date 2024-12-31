@@ -149,6 +149,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [security-tools](#security-tools)
 - [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
@@ -1225,6 +1226,7 @@
 
 ## others 
 
+- [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
 - [mike-neck/example-k8s-study](https://github.com/mike-neck/example-k8s-study) - K8s の勉強してる
 - [willnet/rspec-style-guide](https://github.com/willnet/rspec-style-guide) - 可読性の高いテストコードを書くためのお作法集
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
@@ -1878,6 +1880,10 @@
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Netflix-Skunkworks/sketchy](https://github.com/Netflix-Skunkworks/sketchy) - A task based API for taking screenshots and scraping text from websites.
+
+## security-tools 
+
+- [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 
 ## serverless 
 
