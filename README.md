@@ -378,7 +378,7 @@
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [hedrall/grpc-with-ts-sample](https://github.com/hedrall/grpc-with-ts-sample) - 
 - [mochan-tk/line-api-use-case-smart-retail](https://github.com/mochan-tk/line-api-use-case-smart-retail) - Smart Retail demo application provided by LINE API Use Case
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
@@ -425,7 +425,7 @@
 - [fluct/fluct](https://github.com/fluct/fluct) - A framework to build server-less web applications using Lambda and API Gateway.
 - [Shinpeim/NekogataDrumSequencer](https://github.com/Shinpeim/NekogataDrumSequencer) - 
 - [rpgtkoolmv/corescript](https://github.com/rpgtkoolmv/corescript) - 
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [angular/mobile-toolkit](https://github.com/angular/mobile-toolkit) - Tools for building progressive web apps with Angular
 - [kumabook/yakusoku](https://github.com/kumabook/yakusoku) - Simple and light-weight promise implementation that works in es3
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
