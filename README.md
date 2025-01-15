@@ -788,6 +788,7 @@
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -898,7 +899,6 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [sassy/dccs-deno](https://github.com/sassy/dccs-deno) - get Delay Certificate of JR Chuo-Sobu Line.
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 - [reactjs/ja.react.dev](https://github.com/reactjs/ja.react.dev) - React documentation website in Japanese
 - [hisasann/gas-typescript-starter](https://github.com/hisasann/gas-typescript-starter) - 🍡 Google Apps Script + TypeScript + lerna 🍼
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
