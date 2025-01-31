@@ -143,7 +143,6 @@
 - [Zahidul-Islam/Leaflet.awesome-numbered-marker](https://github.com/Zahidul-Islam/Leaflet.awesome-numbered-marker) - A plugin that adds number markers for Leaflet
 - [dnouri/pyramid-tutorial](https://github.com/dnouri/pyramid-tutorial) - Create a Pyramid app from scratch. Learn about models, views, traversal, security, the ZODB, and more.
 - [apex/apex-ui](https://github.com/apex/apex-ui) - Apex monochrome Atom theme UI.
-- [sassy/nagasawaWidget](https://github.com/sassy/nagasawaWidget) - コード書きながら小窓で長澤茉里奈を見たいだけ
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [intel/appframework](https://github.com/intel/appframework) - The definitive HTML5 mobile javascript framework
 
