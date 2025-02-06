@@ -752,7 +752,7 @@
 ## Ruby 
 
 - [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
-- [github/licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
+- [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [ikeay/tv-info-bot](https://github.com/ikeay/tv-info-bot) - タレントのTV出演情報をTwitterでつぶやく
 - [kyanny/ghn](https://github.com/kyanny/ghn) - List/Open unread GitHub Notifications.
