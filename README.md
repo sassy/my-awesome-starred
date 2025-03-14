@@ -367,6 +367,7 @@
 
 ## JavaScript 
 
+- [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 - [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
 - [tronicboy1/svelte-rxjs-subjects](https://github.com/tronicboy1/svelte-rxjs-subjects) - An extension of RxJS subjects to be used as Svelte Stores
 - [zach-hopkins/create-t3svelte-app](https://github.com/zach-hopkins/create-t3svelte-app) - Quick T3 Stack with SvelteKit for rapid deployment of highly performant typesafe web apps.
