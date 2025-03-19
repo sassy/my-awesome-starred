@@ -775,7 +775,6 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [orbit-mvi/orbit-mvi](https://github.com/orbit-mvi/orbit-mvi) - A simple MVI framework for Kotlin Multiplatform and Android
 - [pankona/generic-defence-game](https://github.com/pankona/generic-defence-game) - Generic defence game
-- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
@@ -1869,6 +1868,7 @@
 
 ## rust 
 
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [katayama8000/expo-push-notification-client-rust](https://github.com/katayama8000/expo-push-notification-client-rust) - Official Expo Push Notification Client for Rust
 - [shiguredo/mp4-rust](https://github.com/shiguredo/mp4-rust) - MP4 library
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
