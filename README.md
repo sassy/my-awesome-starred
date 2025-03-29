@@ -198,6 +198,7 @@
 
 ## Go 
 
+- [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [watermint/toolbox](https://github.com/watermint/toolbox) - The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system ad
 - [mike-neck/example-k8s-study](https://github.com/mike-neck/example-k8s-study) - K8s の勉強してる
 - [pankona/generic-defence-game](https://github.com/pankona/generic-defence-game) - Generic defence game
@@ -618,7 +619,7 @@
 - [HeshamMegid/HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - A highly customizable drop-in replacement for UISegmentedControl.
 - [apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera) - Apache Cordova Plugin camera
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
-- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript
+- [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript & TypeScript
 - [gmkou/romods](https://github.com/gmkou/romods) - Move Romo via Browser on Nintendo 3DS
 - [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket) - A conforming Objective-C WebSocket client library.
 - [cookpad/puree-ios](https://github.com/cookpad/puree-ios) - [Obsoleted] A log collector for iOS (new version! -&gt; https://github.com/cookpad/Puree-Swift)
