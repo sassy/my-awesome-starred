@@ -369,6 +369,7 @@
 ## JavaScript 
 
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
 - [tronicboy1/svelte-rxjs-subjects](https://github.com/tronicboy1/svelte-rxjs-subjects) - An extension of RxJS subjects to be used as Svelte Stores
 - [zach-hopkins/create-t3svelte-app](https://github.com/zach-hopkins/create-t3svelte-app) - Quick T3 Stack with SvelteKit for rapid deployment of highly performant typesafe web apps.
@@ -881,7 +882,6 @@
 
 ## TypeScript 
 
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
