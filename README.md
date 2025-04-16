@@ -539,7 +539,6 @@
 - [sassy/youtubeUserScript](https://github.com/sassy/youtubeUserScript) - Youtubeをみるためのユーザースクリプト
 - [enyojs/enyo](https://github.com/enyojs/enyo) - A JavaScript application framework emphasizing modularity and encapsulation
 - [sassy/svgclock](https://github.com/sassy/svgclock) - SVGでつくった時計のOperaウィジェット
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [fasterthanlime/jsmad](https://github.com/fasterthanlime/jsmad) - :saxophone: Javascript MPEG-1 Audio Layer III (mp3) and ID3v2 decoder
 - [danlucraft/git.js](https://github.com/danlucraft/git.js) - pure-Javascript Git implementation
 - [tj/should.js](https://github.com/tj/should.js) - BDD style assertions for node.js -- test framework agnostic
@@ -598,6 +597,7 @@
 ## MDX 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Markdown 
 
