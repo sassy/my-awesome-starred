@@ -63,6 +63,7 @@
 
 ## C 
 
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
 - [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc) - mruby/c is another implementation of mruby.
@@ -698,6 +699,7 @@
 
 ## Python 
 
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -782,6 +784,7 @@
 
 ## Rust 
 
+- [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
 - [katayama8000/expo-push-notification-client-rust](https://github.com/katayama8000/expo-push-notification-client-rust) - Official Expo Push Notification Client for Rust
