@@ -131,7 +131,7 @@
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [pankona/KonaReflection](https://github.com/pankona/KonaReflection) - Breakout (ブロック崩し) using cocos2d-x
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
 - [highruned/node-flash](https://github.com/highruned/node-flash) - Library which runs .swf Flash files natively in Node.js
