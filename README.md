@@ -784,6 +784,7 @@
 
 ## Rust 
 
+- [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
