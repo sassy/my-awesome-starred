@@ -1261,6 +1261,8 @@
 
 ## others 
 
+- [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
+- [hideyuki-hori/dotfiles](https://github.com/hideyuki-hori/dotfiles) - 
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
@@ -1610,7 +1612,7 @@
 - [GNOME/librsvg](https://github.com/GNOME/librsvg) - Read-only mirror of https://gitlab.gnome.org/GNOME/librsvg
 - [apache/xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) - Apache XML Graphics Batik
 - [mitmul/homebrew-caffe](https://github.com/mitmul/homebrew-caffe) - [THIS PROJECT HAS BEEN DEPRECATED. BECAUSE NOW CUDA SUPPORTS libc++] Caffe (Convolutional Architecture for Fast Feature Embedding) related formulae for OSX 10.9
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew) - Node.js version manager
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
