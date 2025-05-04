@@ -1261,6 +1261,7 @@
 
 ## others 
 
+- [hideyuki-hori/distribution-worker](https://github.com/hideyuki-hori/distribution-worker) - Web Application Performance Optimization DEMO
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [hideyuki-hori/dotfiles](https://github.com/hideyuki-hori/dotfiles) - 
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
