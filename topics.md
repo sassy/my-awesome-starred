@@ -360,7 +360,7 @@
 
 ## c 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
 - [lekkas/c-algorithms](https://github.com/lekkas/c-algorithms) - An experimental C library of common data structures and algorithms
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
@@ -751,7 +751,7 @@
 
 ## good-first-issue 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 
 ## gradle 
@@ -1055,7 +1055,7 @@
 
 ## library 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
 - [momeemt/Unit](https://github.com/momeemt/Unit) - Unit is library of unit types
 - [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 - [radianttap/Swift-Essentials](https://github.com/radianttap/Swift-Essentials) - A set of essential Swift stuff I use in every single iOS app.
@@ -1078,7 +1078,7 @@
 ## llm 
 
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## machine-learning 
 
@@ -1765,7 +1765,7 @@
 
 ## python 
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -1950,7 +1950,7 @@
 
 ## sqlite 
 
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
 - [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and painless smart migrations
 
 ## storybook 
