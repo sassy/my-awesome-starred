@@ -67,7 +67,7 @@
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
 - [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc) - mruby/c is another implementation of mruby.
-- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for performance and features
+- [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
 - [karino2/c-lesson](https://github.com/karino2/c-lesson) - karino2の暇つぶしプログラム教室のC言語を教えるのに使うgithub pageのレポジトリです。
 - [lekkas/c-algorithms](https://github.com/lekkas/c-algorithms) - An experimental C library of common data structures and algorithms
 - [jvns/kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
@@ -702,7 +702,7 @@
 
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
