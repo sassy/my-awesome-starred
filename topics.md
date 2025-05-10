@@ -191,6 +191,7 @@
 
 ## ai 
 
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 
@@ -596,7 +597,7 @@
 ## embedded 
 
 - [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
-- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
+- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - MicroZig is a toolbox for building embedded applications in Zig.
 - [Cosmo/OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - WIP — OpenSwiftUI is an OpenSource implementation of Apple's SwiftUI DSL.
 
 ## emoji 
@@ -1261,10 +1262,10 @@
 
 ## others 
 
+- [hideyuki-hori/lab-animation-react](https://github.com/hideyuki-hori/lab-animation-react) - 
 - [hideyuki-hori/distribution-worker](https://github.com/hideyuki-hori/distribution-worker) - Web Application Performance Optimization DEMO
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [hideyuki-hori/dotfiles](https://github.com/hideyuki-hori/dotfiles) - 
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
@@ -2168,7 +2169,7 @@
 - [getty-zig/json](https://github.com/getty-zig/json) - A (de)serialization library for JSON
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [getty-zig/getty](https://github.com/getty-zig/getty) - A (de)serialization framework for Zig
-- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
+- [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - MicroZig is a toolbox for building embedded applications in Zig.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [shiguredo/rebar3_zig](https://github.com/shiguredo/rebar3_zig) - Rebar3 plugin to call Zig functions from Erlang using NIF
 - [mattn/zig-curl](https://github.com/mattn/zig-curl) - cURL binding for Zig
