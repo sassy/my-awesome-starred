@@ -286,7 +286,6 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [kasaharu/ng-basis](https://github.com/kasaharu/ng-basis) - 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [codeforjapan/vs-covid19](https://github.com/codeforjapan/vs-covid19) - VS COVID-19 企業による支援リスト（政府提供オープンデータ使用）
 - [kuramot6f/mental-health](https://github.com/kuramot6f/mental-health) - Mental Health Tips (ft. Anxiety Wolf)
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
@@ -722,6 +721,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [iequivocality/bemiho](https://github.com/iequivocality/bemiho) - Utility for dowloading blogs of various Japanese idols. Allows extraction for both photos and content.
 - [sassy/saveAmebloContents](https://github.com/sassy/saveAmebloContents) - save ameblo contents.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 - [succhiello/typedtuple](https://github.com/succhiello/typedtuple) - namedtuple with type definition
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
