@@ -207,6 +207,7 @@
 
 ## analytics 
 
+- [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 - [tj/go-cli-analytics](https://github.com/tj/go-cli-analytics) - Unobtrusive disk-buffered analytics for CLI tools powered by Segment
 
 ## android 
