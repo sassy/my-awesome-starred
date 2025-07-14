@@ -721,7 +721,7 @@
 - [iequivocality/bemiho](https://github.com/iequivocality/bemiho) - Utility for dowloading blogs of various Japanese idols. Allows extraction for both photos and content.
 - [sassy/saveAmebloContents](https://github.com/sassy/saveAmebloContents) - save ameblo contents.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
+- [OWASP/masvs](https://github.com/OWASP/masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 - [succhiello/typedtuple](https://github.com/succhiello/typedtuple) - namedtuple with type definition
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
