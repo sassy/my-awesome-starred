@@ -1133,7 +1133,7 @@
 ## mobile 
 
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework - Android Repository
-- [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
+- [OWASP/masvs](https://github.com/OWASP/masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 - [apache/cordova-electron](https://github.com/apache/cordova-electron) - Apache Cordova Electron
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1735,7 +1735,7 @@
 
 ## penetration-testing 
 
-- [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
+- [OWASP/masvs](https://github.com/OWASP/masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 
 ## php 
 
@@ -1933,7 +1933,7 @@
 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [dvsekhvalnov/jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core
-- [OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
+- [OWASP/masvs](https://github.com/OWASP/masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Netflix-Skunkworks/sketchy](https://github.com/Netflix-Skunkworks/sketchy) - A task based API for taking screenshots and scraping text from websites.
