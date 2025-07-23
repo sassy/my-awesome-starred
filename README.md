@@ -809,7 +809,7 @@
 
 ## SCSS 
 
-- [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - 
+- [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - Martin Fowler's Bliki (ja)
 - [zenfumi/book_action](https://github.com/zenfumi/book_action) - 
 - [codeforjapan/mapprint](https://github.com/codeforjapan/mapprint) - 
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
