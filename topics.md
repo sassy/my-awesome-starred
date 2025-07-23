@@ -1311,7 +1311,7 @@
 - [google/atheris](https://github.com/google/atheris) - 
 - [tinp-lab/Mokuren-on-boarding](https://github.com/tinp-lab/Mokuren-on-boarding) - 
 - [relayjs/relay-examples](https://github.com/relayjs/relay-examples) - A collection of sample Relay applications
-- [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - 
+- [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - Martin Fowler's Bliki (ja)
 - [jimgoog/ComposeAppUsingPrereleaseComposeCompiler](https://github.com/jimgoog/ComposeAppUsingPrereleaseComposeCompiler) - Demonstrates using Compose with pre-releases of KotlinCompiler and ComposeCompiler
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [mkurom/Kotlin_sampleApp](https://github.com/mkurom/Kotlin_sampleApp) - Kotlin勉強用
