@@ -239,7 +239,7 @@
 - [golang/exp](https://github.com/golang/exp) - [mirror] Experimental and deprecated packages
 - [pankona/gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
 - [zenazn/goji](https://github.com/zenazn/goji) - Goji is a minimalistic web framework for Golang that's high in antioxidants.
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language (In Maintenance Mode, End-of-Life on 07/31/2025). The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -717,7 +717,7 @@
 - [sassy/Leetcode](https://github.com/sassy/Leetcode) - 
 - [sassy/momoclo-news-crawler](https://github.com/sassy/momoclo-news-crawler) - collect news from https://www.momoclo.net/news/
 - [codeforjapan/mynumbercard_statistics](https://github.com/codeforjapan/mynumbercard_statistics) - The dashboard of my number card statistics
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [iequivocality/bemiho](https://github.com/iequivocality/bemiho) - Utility for dowloading blogs of various Japanese idols. Allows extraction for both photos and content.
 - [sassy/saveAmebloContents](https://github.com/sassy/saveAmebloContents) - save ameblo contents.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
