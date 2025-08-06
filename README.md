@@ -546,6 +546,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [contactmodel/COVID19-Japan-Reff](https://github.com/contactmodel/COVID19-Japan-Reff) - 
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 
@@ -596,7 +597,6 @@
 
 ## MDX 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Markdown 
