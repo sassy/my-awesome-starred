@@ -104,6 +104,7 @@
 - [koa](#koa)
 - [kotlin](#kotlin)
 - [language](#language)
+- [latex](#latex)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -1071,6 +1072,10 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
+## latex 
+
+- [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
+
 ## library 
 
 - [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
@@ -1429,7 +1434,6 @@
 - [threejs/three-devtools](https://github.com/threejs/three-devtools) - three.js devtools
 - [mecid/swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
 - [tj/go-css](https://github.com/tj/go-css) - CSS utilities (just hex parsing for now)
-- [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [mochan-tk/clova-travelcompany-hands-on](https://github.com/mochan-tk/clova-travelcompany-hands-on) - 
 - [codeforjapan/mapprint-nuxt](https://github.com/codeforjapan/mapprint-nuxt) - 
 - [mochan-tk/clova-travelcompany-handson](https://github.com/mochan-tk/clova-travelcompany-handson) - 
