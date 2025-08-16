@@ -188,7 +188,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -1286,6 +1285,7 @@
 
 ## others 
 
+- [ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP) - Teach Yourself CS - Japanese
 - [hideyuki-hori/lab-animation-react](https://github.com/hideyuki-hori/lab-animation-react) - 
 - [hideyuki-hori/distribution-worker](https://github.com/hideyuki-hori/distribution-worker) - Web Application Performance Optimization DEMO
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
@@ -2214,12 +2214,6 @@
 - [shiguredo/rebar3_zig](https://github.com/shiguredo/rebar3_zig) - Rebar3 plugin to call Zig functions from Erlang using NIF
 - [mattn/zig-curl](https://github.com/mattn/zig-curl) - cURL binding for Zig
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## zsh 
-
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [isaacs/nave](https://github.com/isaacs/nave) - Virtual Environments for Node
 
 
 ## License
