@@ -751,7 +751,6 @@
 - [FikaNote/FikaNote](https://github.com/FikaNote/FikaNote) - ShowNote service.
 - [nwjs/nw-gyp](https://github.com/nwjs/nw-gyp) - native addon build tool for node-webkit
 - [gmkou/MusicPi](https://github.com/gmkou/MusicPi) - 
-- [MobileChromeApps/mobile-chrome-apps](https://github.com/MobileChromeApps/mobile-chrome-apps) - Chrome apps on Android and iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 
 ## Ruby 
