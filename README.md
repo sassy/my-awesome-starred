@@ -63,6 +63,7 @@
 
 ## C 
 
+- [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
@@ -785,6 +786,7 @@
 
 ## Rust 
 
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
