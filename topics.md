@@ -1285,6 +1285,7 @@
 
 ## others 
 
+- [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
 - [ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP) - Teach Yourself CS - Japanese
 - [hideyuki-hori/lab-animation-react](https://github.com/hideyuki-hori/lab-animation-react) - 
 - [hideyuki-hori/distribution-worker](https://github.com/hideyuki-hori/distribution-worker) - Web Application Performance Optimization DEMO
@@ -1680,7 +1681,6 @@
 - [stomita/ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel) - Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas.
 - [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 - [fastlane-old/deliver](https://github.com/fastlane-old/deliver) - Upload screenshots, metadata and your app to the App Store using a single command
-- [MobileChromeApps/mobile-chrome-apps](https://github.com/MobileChromeApps/mobile-chrome-apps) - Chrome apps on Android and iOS
 - [SVGKit/SVGKit](https://github.com/SVGKit/SVGKit) - Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
 - [potatotips/potatotips](https://github.com/potatotips/potatotips) - potatotips
@@ -1918,6 +1918,7 @@
 
 ## rust 
 
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [katayama8000/expo-push-notification-client-rust](https://github.com/katayama8000/expo-push-notification-client-rust) - Official Expo Push Notification Client for Rust
 - [shiguredo/mp4-rust](https://github.com/shiguredo/mp4-rust) - MP4 library
