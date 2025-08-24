@@ -653,7 +653,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [mercari/mercari-slack-guidelines](https://github.com/mercari/mercari-slack-guidelines) - Slack guidelines of Mercari.
 - [S-O-L-A-R/liff-type](https://github.com/S-O-L-A-R/liff-type) - Type definition for LINE Frontend Framework
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [gfx/android-oss-best-practices](https://github.com/gfx/android-oss-best-practices) - Best practices on creating Android OSS library projects [JA]
 - [diescake/self-contributions](https://github.com/diescake/self-contributions) - Keeping a record of contributions of me, by me and for me.
 - [square/workflow-kotlin-compose](https://github.com/square/workflow-kotlin-compose) - Jetpack Compose integration for Square Workflows.
