@@ -295,7 +295,7 @@
 ## api 
 
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions
@@ -791,7 +791,7 @@
 - [kazuyaseki/graphql-codegen-flutter-artemis-hooks](https://github.com/kazuyaseki/graphql-codegen-flutter-artemis-hooks) - graphql-codegen plugin to generate type-safe, easy-to use hooks for Flutter
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
