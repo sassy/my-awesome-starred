@@ -386,7 +386,6 @@
 - [mochan-tk/line-api-use-case-smart-retail](https://github.com/mochan-tk/line-api-use-case-smart-retail) - Smart Retail demo application provided by LINE API Use Case
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [KanDai/tap10_pwa](https://github.com/KanDai/tap10_pwa) - PWA実装のサンプルアプリ
 - [aws-amplify-jp/awesome-aws-amplify-ja](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja) - 日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
@@ -933,6 +932,7 @@
 - [storybookjs/addon-designs](https://github.com/storybookjs/addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
 - [codyNog/tt-atomic-design](https://github.com/codyNog/tt-atomic-design) - 
+- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [TakutoOkuno/Text-in-Image-Rendering](https://github.com/TakutoOkuno/Text-in-Image-Rendering) - 入力したテキストを用意した画像に埋め込んでプレビュー＆出力できるWebページです。React + Next.js + TypescriptをNowでデプロイしました。
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [kazuyaseki/animation-lab](https://github.com/kazuyaseki/animation-lab) - 
