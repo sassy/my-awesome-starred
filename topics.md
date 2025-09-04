@@ -2088,7 +2088,7 @@
 - [sassy/candygogo-schedule](https://github.com/sassy/candygogo-schedule) - スケジュール確認用
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [S-O-L-A-R/liff-type](https://github.com/S-O-L-A-R/liff-type) - Type definition for LINE Frontend Framework
-- [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
+- [frourios/frourio](https://github.com/frourios/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
 - [diescake/igata](https://github.com/diescake/igata) - [deprecated] igata is my boilerplate for Web Frontend.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
