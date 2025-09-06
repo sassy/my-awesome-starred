@@ -370,6 +370,7 @@
 
 ## JavaScript 
 
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
