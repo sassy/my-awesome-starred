@@ -341,7 +341,7 @@
 - [Catbag/redux-android-sample](https://github.com/Catbag/redux-android-sample) - A Android sample that implements Redux architecture with React and NoSQL
 - [kikutaro/Sakamichi46Api](https://github.com/kikutaro/Sakamichi46Api) - REST API for getting Nogizaka46/Keyakizaka46 information.
 - [MobiVM/robovm](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux
-- [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and painless smart migrations
+- [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and declarative schema migrations
 - [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 - [google/agera](https://github.com/google/agera) - Reactive Programming for Android
 - [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
