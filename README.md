@@ -786,6 +786,7 @@
 
 ## Rust 
 
+- [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
