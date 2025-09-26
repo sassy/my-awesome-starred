@@ -1287,6 +1287,7 @@
 
 ## others 
 
+- [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
 - [ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP) - Teach Yourself CS - Japanese
