@@ -374,6 +374,7 @@
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [sassy/jpdate2cron](https://github.com/sassy/jpdate2cron) - convert cron format from Date/Time in Japan.
+- [AndroidDagashi/AndroidDagashi](https://github.com/AndroidDagashi/AndroidDagashi) - 
 - [tronicboy1/svelte-rxjs-subjects](https://github.com/tronicboy1/svelte-rxjs-subjects) - An extension of RxJS subjects to be used as Svelte Stores
 - [zach-hopkins/create-t3svelte-app](https://github.com/zach-hopkins/create-t3svelte-app) - Quick T3 Stack with SvelteKit for rapid deployment of highly performant typesafe web apps.
 - [kt3k/browser-streaming-examples](https://github.com/kt3k/browser-streaming-examples) - examples to perform streaming in browsers
@@ -835,7 +836,7 @@
 ## Shell 
 
 - [hideyuki-hori/dotfiles](https://github.com/hideyuki-hori/dotfiles) - 
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [artem-zinnatullin/RxJavaProGuardRules](https://github.com/artem-zinnatullin/RxJavaProGuardRules) - ProGuard rules for RxJava shipped as AAR!
@@ -859,7 +860,7 @@
 - [haxpor/ios-design-patterns](https://github.com/haxpor/ios-design-patterns) - Learning ground for iOS Design Pattern included with sample projects for MVC, MVP, MVVM, and VIPER
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
-- [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
+- [transfer-aws/swift-aws-lambda-runtime](https://github.com/transfer-aws/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
 - [spotify/Mobius.swift](https://github.com/spotify/Mobius.swift) - A functional reactive framework for managing state evolution and side-effects [Swift implementation]
 - [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
@@ -904,7 +905,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [increments/qiita-cli](https://github.com/increments/qiita-cli) - Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。
-- [AndroidDagashi/AndroidDagashi](https://github.com/AndroidDagashi/AndroidDagashi) - 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
