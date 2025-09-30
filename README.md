@@ -860,7 +860,7 @@
 - [haxpor/ios-design-patterns](https://github.com/haxpor/ios-design-patterns) - Learning ground for iOS Design Pattern included with sample projects for MVC, MVP, MVVM, and VIPER
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
-- [transfer-aws/swift-aws-lambda-runtime](https://github.com/transfer-aws/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
+- [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
 - [spotify/Mobius.swift](https://github.com/spotify/Mobius.swift) - A functional reactive framework for managing state evolution and side-effects [Swift implementation]
 - [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
