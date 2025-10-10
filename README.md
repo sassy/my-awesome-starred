@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -60,6 +61,10 @@
 ## Batchfile 
 
 - [hakobera/nvmw](https://github.com/hakobera/nvmw) - Simple Node Version Manager for Windows
+
+## Bikeshed 
+
+- [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 
 ## C 
 
@@ -302,7 +307,6 @@
 - [Stanko/skyblue](https://github.com/Stanko/skyblue) - CSS framework (made with SASS)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
-- [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [sassy/sassy.github.com](https://github.com/sassy/sassy.github.com) - 
 
