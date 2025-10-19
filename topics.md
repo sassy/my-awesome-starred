@@ -1422,7 +1422,7 @@
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
 - [gfx/android-oss-best-practices](https://github.com/gfx/android-oss-best-practices) - Best practices on creating Android OSS library projects [JA]
 - [kyanny/ghn](https://github.com/kyanny/ghn) - List/Open unread GitHub Notifications.
-- [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
+- [awslabs/swift-aws-lambda-runtime](https://github.com/awslabs/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
 - [tj/spa](https://github.com/tj/spa) - Tiny Single Page Application server for Go with `spa` command-line tool.
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [diescake/self-contributions](https://github.com/diescake/self-contributions) - Keeping a record of contributions of me, by me and for me.
