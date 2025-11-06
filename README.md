@@ -443,6 +443,7 @@
 - [electron-userland/spectron](https://github.com/electron-userland/spectron) - DEPRECATED: 🔎 Test Electron apps using ChromeDriver
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - ESLint plugin to disable all mutation in JavaScript.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [gerhardberger/electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - view PDF files in electron browser windows
 - [takahashim/js-stack-from-scratch](https://github.com/takahashim/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack from scratch
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
@@ -1025,7 +1026,6 @@
 - [InfomediaLtd/angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize) - Angular 2 support for Materialize CSS framework.
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [angular-redux/store](https://github.com/angular-redux/store) - Angular 2+ bindings for Redux
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
