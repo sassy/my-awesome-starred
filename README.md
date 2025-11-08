@@ -293,7 +293,6 @@
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [kasaharu/ng-basis](https://github.com/kasaharu/ng-basis) - 
 - [codeforjapan/vs-covid19](https://github.com/codeforjapan/vs-covid19) - VS COVID-19 企業による支援リスト（政府提供オープンデータ使用）
-- [kuramot6f/mental-health](https://github.com/kuramot6f/mental-health) - Mental Health Tips (ft. Anxiety Wolf)
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
