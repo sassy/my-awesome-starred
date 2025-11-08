@@ -1416,7 +1416,6 @@
 - [h2o/quicly](https://github.com/h2o/quicly) - A modular QUIC stack designed primarily for H2O
 - [Path-Check/safeplaces-dct-app](https://github.com/Path-Check/safeplaces-dct-app) - COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
-- [kuramot6f/mental-health](https://github.com/kuramot6f/mental-health) - Mental Health Tips (ft. Anxiety Wolf)
 - [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 - [ikeay/tv-info-bot](https://github.com/ikeay/tv-info-bot) - タレントのTV出演情報をTwitterでつぶやく
 - [anopara/genetic-drawing](https://github.com/anopara/genetic-drawing) - A genetic algorithm toy project for drawing
