@@ -480,7 +480,7 @@
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [KhronosGroup/WebGLDeveloperTools](https://github.com/KhronosGroup/WebGLDeveloperTools) - 
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
-- [tohashi/css-typesetter](https://github.com/tohashi/css-typesetter) - GUI Tool for typesetting with CSS.
+- [takumi0h/css-typesetter](https://github.com/takumi0h/css-typesetter) - GUI Tool for typesetting with CSS.
 - [kripken/webgl-worker](https://github.com/kripken/webgl-worker) - 
 - [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
 - [PexJS/PexJS](https://github.com/PexJS/PexJS) - HTML5 Flash Lite 1.1 Runtime Engine
