@@ -1574,7 +1574,7 @@
 - [golang/exp](https://github.com/golang/exp) - [mirror] Experimental and deprecated packages
 - [adobe/WebkitAIR](https://github.com/adobe/WebkitAIR) - Webkit used in Adobe AIR
 - [pankona/gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
-- [tohashi/css-typesetter](https://github.com/tohashi/css-typesetter) - GUI Tool for typesetting with CSS.
+- [takumi0h/css-typesetter](https://github.com/takumi0h/css-typesetter) - GUI Tool for typesetting with CSS.
 - [kripken/webgl-worker](https://github.com/kripken/webgl-worker) - 
 - [nowsprinting/ios-build](https://github.com/nowsprinting/ios-build) - Build script for iOS Application project
 - [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
