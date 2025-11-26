@@ -85,6 +85,7 @@
 - [good-first-issue](#good-first-issue)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -802,6 +803,11 @@
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+
+## gui 
+
+- [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## hacking 
 
