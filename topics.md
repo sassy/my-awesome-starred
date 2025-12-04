@@ -811,7 +811,7 @@
 
 ## gradle 
 
-- [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
+- [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - 
 
 ## graphql 
 
@@ -1093,7 +1093,7 @@
 - [burakeregar/KotlinMvpTemplateGenerator](https://github.com/burakeregar/KotlinMvpTemplateGenerator) - Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
 - [general-mobile/kotlin-android-mvp-starter](https://github.com/general-mobile/kotlin-android-mvp-starter) - Create/Generate your kotlin MVP projects easily
 - [myinnos/Kotlin-Example](https://github.com/myinnos/Kotlin-Example) - An example for who are all going to start learning Kotlin programming language to develop Android application.
-- [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
+- [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - 
 - [MobiVM/robovm](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux
 - [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
