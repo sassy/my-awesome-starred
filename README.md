@@ -593,7 +593,7 @@
 - [nekocode/create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) - Create kotlin android project with one line of command.
 - [ahmedeltaher/MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
 - [ahmedeltaher/Android-MVP-Architecture](https://github.com/ahmedeltaher/Android-MVP-Architecture) - MVP + Kotlin + Retrofit2 + Dagger2 + Coroutines + Anko + Kotlin-Android-Extensions + RX-java + Mockk + Espresso + Junit5
-- [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
+- [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - 
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
