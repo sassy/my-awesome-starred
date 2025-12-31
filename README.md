@@ -838,7 +838,7 @@
 ## Shell 
 
 - [hideyuki-hori/dotfiles](https://github.com/hideyuki-hori/dotfiles) - 
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of October '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - Zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; configurable from casual user to powerusers; dotfiles-friendly; integrates with suggestions and syntax highlightin
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [artem-zinnatullin/RxJavaProGuardRules](https://github.com/artem-zinnatullin/RxJavaProGuardRules) - ProGuard rules for RxJava shipped as AAR!
