@@ -265,7 +265,7 @@
 - [ragnor-rs/visum](https://github.com/ragnor-rs/visum) - Android reactive MVP stack
 - [iammert/Android-MVVM-Architecture](https://github.com/iammert/Android-MVVM-Architecture) - Sample MVVM project uses instagram API
 - [nekocode/create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) - Create kotlin android project with one line of command.
-- [ahmedeltaher/MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
+- [ahmedeltaher/Mobile-Voice-AI-Agent](https://github.com/ahmedeltaher/Mobile-Voice-AI-Agent) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
 - [ahmedeltaher/Android-MVP-Architecture](https://github.com/ahmedeltaher/Android-MVP-Architecture) - MVP + Kotlin + Retrofit2 + Dagger2 + Coroutines + Anko + Kotlin-Android-Extensions + RX-java + Mockk + Espresso + Junit5
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [BlackBoxVision/mvp-helpers](https://github.com/BlackBoxVision/mvp-helpers) - ♻️Helper classes to build Android Apps through MVP pattern in a faster way
