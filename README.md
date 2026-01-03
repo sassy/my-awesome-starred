@@ -592,7 +592,7 @@
 - [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [myinnos/Kotlin-Example](https://github.com/myinnos/Kotlin-Example) - An example for who are all going to start learning Kotlin programming language to develop Android application.
 - [nekocode/create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) - Create kotlin android project with one line of command.
-- [ahmedeltaher/MVVM-Kotlin-Android-Architecture](https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
+- [ahmedeltaher/Mobile-Voice-AI-Agent](https://github.com/ahmedeltaher/Mobile-Voice-AI-Agent) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
 - [ahmedeltaher/Android-MVP-Architecture](https://github.com/ahmedeltaher/Android-MVP-Architecture) - MVP + Kotlin + Retrofit2 + Dagger2 + Coroutines + Anko + Kotlin-Android-Extensions + RX-java + Mockk + Espresso + Junit5
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - 
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
