@@ -118,6 +118,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -1179,6 +1180,10 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
+
+## mcp 
+
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 
 ## microservices 
 
