@@ -398,7 +398,7 @@
 - [sassy/webpack-sandbox](https://github.com/sassy/webpack-sandbox) - 
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [aarongaither/dixitOnline](https://github.com/aarongaither/dixitOnline) - Dixit card game as a web app
-- [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
+- [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [micksatana/fireliff-cli](https://github.com/micksatana/fireliff-cli) - Command line interface for building LIFF app on Firebase
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
