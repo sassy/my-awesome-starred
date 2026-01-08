@@ -26,6 +26,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -312,6 +313,10 @@
 ## Haskell 
 
 - [ikko-lang/ikko](https://github.com/ikko-lang/ikko) - Ikko language
+
+## JSON 
+
+- [microsoft/TypeScript-DOM-lib-generator](https://github.com/microsoft/TypeScript-DOM-lib-generator) - Tool for generating dom related TypeScript and JavaScript library files
 
 ## Java 
 
@@ -1020,7 +1025,6 @@
 - [vmware-archive/clarity-seed](https://github.com/vmware-archive/clarity-seed) - This is a repository for a seed project that includes Clarity Design System's dependencies.
 - [microsoft/TypeScriptSamples](https://github.com/microsoft/TypeScriptSamples) - Community Driven Samples for TypeScript
 - [vmware-archive/clarity](https://github.com/vmware-archive/clarity) - Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.
-- [microsoft/TypeScript-DOM-lib-generator](https://github.com/microsoft/TypeScript-DOM-lib-generator) - Tool for generating dom related TypeScript and JavaScript library files
 - [InfomediaLtd/angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize) - Angular 2 support for Materialize CSS framework.
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
