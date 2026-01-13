@@ -183,6 +183,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [video](#video)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -1633,7 +1634,6 @@
 - [cubicdaiya/nginx-build](https://github.com/cubicdaiya/nginx-build) - Seamless nginx builder
 - [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
-- [sassy/hashire](https://github.com/sassy/hashire) - play "走れ!" video in command line.
 - [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [kbwood/svg](https://github.com/kbwood/svg) - jQuery SVG plugin
 - [libmx3/mx3](https://github.com/libmx3/mx3) - a sample project showcasing/collecting cross platform techniques on mobile
@@ -2177,6 +2177,10 @@
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+## video 
+
+- [sassy/hashire](https://github.com/sassy/hashire) - play "走れ!" video in command line.
 
 ## virtual-reality 
 
