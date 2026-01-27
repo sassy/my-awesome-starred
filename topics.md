@@ -115,6 +115,7 @@
 - [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -1158,6 +1159,10 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 
+## malware 
+
+- [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
+
 ## markdown 
 
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -1393,7 +1398,6 @@
 - [hedrall/grpc-with-ts-sample](https://github.com/hedrall/grpc-with-ts-sample) - 
 - [TeXmeijin/anyway-merge-app](https://github.com/TeXmeijin/anyway-merge-app) - 毎日誰かのプルリクを脳死でマージするアドベントカレンダー（2021/12/01〜）
 - [kmizu/kotbinator](https://github.com/kmizu/kotbinator) - Parser Combinator Library in Kotlin
-- [Da2dalus/The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 - [mochan-tk/line-api-use-case-smart-retail](https://github.com/mochan-tk/line-api-use-case-smart-retail) - Smart Retail demo application provided by LINE API Use Case
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pluralsight/classic-design-system](https://github.com/pluralsight/classic-design-system) - This library (classic) is officially in maintenance mode only. For the latest library, please see the TVA project (https://pluralsight.github.io/tva/).
