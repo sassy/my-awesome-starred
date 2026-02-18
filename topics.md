@@ -1391,7 +1391,7 @@
 - [habuka036/gen-ramen34](https://github.com/habuka036/gen-ramen34) - ラーメン三銃士ジェネレータ
 - [android/animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
 - [aozorahack/aozorahack](https://github.com/aozorahack/aozorahack) - aozorahack全般に関するissue/wiki用リポジトリです
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
 - [pickhardt/maintainers-wanted](https://github.com/pickhardt/maintainers-wanted) - List of projects looking for new lead maintainers, either abandoned or just looking for someone else to lead.
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
