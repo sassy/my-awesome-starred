@@ -327,6 +327,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 
 ## artificial-intelligence 
@@ -715,6 +716,7 @@
 
 ## frontend 
 
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
@@ -1070,6 +1072,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [maskarade/StaticGson](https://github.com/maskarade/StaticGson) - A Gson binding generator with annotation processing
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
 - [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
@@ -1583,7 +1586,6 @@
 - [angular/angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [mozilla/positron](https://github.com/mozilla/positron) - a experimental, Electron-compatible runtime on top of Gecko
 - [jonathantneal/event-observer](https://github.com/jonathantneal/event-observer) - Treat DOM events like Arrays
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [pankona/mypr](https://github.com/pankona/mypr) - 
 - [sindresorhus/merge-descriptors](https://github.com/sindresorhus/merge-descriptors) - Merge objects using their property descriptors
 - [w3c/csswg-test](https://github.com/w3c/csswg-test) - The former CSS WG test repository
