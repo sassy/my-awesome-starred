@@ -72,6 +72,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -682,6 +683,10 @@
 ## facebook 
 
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
+
+## fastapi 
+
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## firebase 
 
