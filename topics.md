@@ -1046,7 +1046,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
-- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [sindresorhus/gulp-mocha](https://github.com/sindresorhus/gulp-mocha) - Run Mocha tests
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
@@ -1705,6 +1704,7 @@
 - [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew) - Node.js version manager
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [artygus/ios-webkit-debug-proxy-win32](https://github.com/artygus/ios-webkit-debug-proxy-win32) - Win32 port of ios-webkit-debug-proxy (no longer maintained, see https://github.com/google/ios-webkit-debug-proxy)
+- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
