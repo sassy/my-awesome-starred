@@ -1734,6 +1734,7 @@
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [MathildeLemee/hubot-twitter](https://github.com/MathildeLemee/hubot-twitter) - Twitter adapter for Hubot
 - [moul/node-gitlab](https://github.com/moul/node-gitlab) - DEPRECATED, see https://github.com/node-gitlab/node-gitlab
+- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [dominiccooney/cache-polyfill](https://github.com/dominiccooney/cache-polyfill) - Service Worker Cache polyfill extracted from https://jakearchibald.github.io/trained-to-thrill/
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [mohayonao/old-neume.js](https://github.com/mohayonao/old-neume.js) - Neume.js is a Web Audio API library for developing browser music.
@@ -2245,7 +2246,6 @@
 
 - [vmware-archive/clarity](https://github.com/vmware-archive/clarity) - Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.
 - [skatejs/skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.
-- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
 ## web-development 
 
