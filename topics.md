@@ -1352,6 +1352,7 @@
 
 ## others 
 
+- [hideyuki-hori/every-fail](https://github.com/hideyuki-hori/every-fail) - 
 - [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
