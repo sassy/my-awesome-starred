@@ -989,7 +989,7 @@
 - [line/line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) - LINE Messaging API SDK for Node.js
 - [boopathi/react-svg-loader](https://github.com/boopathi/react-svg-loader) - A loader for webpack, rollup, babel that loads svg as a React Component
 - [miso-develop/ifttt-cli](https://github.com/miso-develop/ifttt-cli) - Manage IFTTT from the command line.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [line/clova-cek-sdk-nodejs](https://github.com/line/clova-cek-sdk-nodejs) - SDK of the Clova CEK for Node.js
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [tddbc/typescript-mocha](https://github.com/tddbc/typescript-mocha) - skeleton for TypeScript users.
