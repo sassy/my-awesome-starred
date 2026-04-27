@@ -287,7 +287,7 @@
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
 - [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs) - The code for the book Learning TensorFlow.js by Gant Laborde - Published by O'Reilly Media
 - [OWASP/www-chapter-japan](https://github.com/OWASP/www-chapter-japan) - OWASP Foundation Web Respository
-- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CR
+- [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - CAUTION: END OF SUPPORT ON 3 JUN 2026. The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 pr
 - [approvers/RADWIMPS](https://github.com/approvers/RADWIMPS) - 君の then-then-then 世は Promise で Future
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
