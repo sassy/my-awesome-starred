@@ -28,6 +28,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -415,6 +416,11 @@
 ## c-plus-plus 
 
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+## c-sharp 
+
+- [svg-net/SVG](https://github.com/svg-net/SVG) - Fork of the ms svg library
+- [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 
 ## chatgpt 
 
