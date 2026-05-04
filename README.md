@@ -68,7 +68,6 @@
 
 ## C 
 
-- [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [embedded-office/canopen-stack](https://github.com/embedded-office/canopen-stack) - Free CANopen Stack for Embedded Systems
@@ -677,10 +676,10 @@
 - [tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [feffi/iOS-Ingress](https://github.com/feffi/iOS-Ingress) - Google's AR Game Ingress port for iOS
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [r7kamura/awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) - A collection of awesome FinalFantasy-ish libraries, tools, frameworks and software.
 - [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing) - A curated list of awesome android testing libraries.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -791,6 +790,7 @@
 ## Rust 
 
 - [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
+- [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
