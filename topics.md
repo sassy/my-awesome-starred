@@ -1953,7 +1953,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [boopathi/react-svg-loader](https://github.com/boopathi/react-svg-loader) - A loader for webpack, rollup, babel that loads svg as a React Component
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
