@@ -433,7 +433,7 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [angular/mobile-toolkit](https://github.com/angular/mobile-toolkit) - Tools for building progressive web apps with Angular
 - [kumabook/yakusoku](https://github.com/kumabook/yakusoku) - Simple and light-weight promise implementation that works in es3
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [pankona/geogeo](https://github.com/pankona/geogeo) - 
 - [diescake/dash-holiday-creator](https://github.com/diescake/dash-holiday-creator) - dash-holiday-creator creates the best holidays for you !!
 - [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
