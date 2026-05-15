@@ -625,7 +625,6 @@
 - [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS
 - [HeshamMegid/HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - A highly customizable drop-in replacement for UISegmentedControl.
 - [apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera) - Apache Cordova Plugin camera
-- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [tidev/titanium-sdk](https://github.com/tidev/titanium-sdk) - 🚀 Native iOS and Android Apps with JavaScript & TypeScript
 - [gmkou/romods](https://github.com/gmkou/romods) - Move Romo via Browser on Nintendo 3DS
 - [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -803,6 +802,7 @@
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -889,6 +889,7 @@
 - [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [yashigani/WebKitPlus](https://github.com/yashigani/WebKitPlus) - A support library for WKWebView.
 - [yonekawa/SwiftFlux](https://github.com/yonekawa/SwiftFlux) - A type-safe Flux implementation for Swift
+- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [kumabook/MusicFav](https://github.com/kumabook/MusicFav) - MusicFav is RSS Reader that focuses on playing music comfortably
 - [kumabook/FeedlyKit](https://github.com/kumabook/FeedlyKit) - Feedly Cloud API client library written in swift
 - [modocache/Gift](https://github.com/modocache/Gift) - Swift bindings to libgit2. But you should use https://github.com/SwiftGit2/SwiftGit2 instead!
@@ -1077,7 +1078,6 @@
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [azu/learning-zig](https://github.com/azu/learning-zig) - 
 - [mattn/zig-curl](https://github.com/mattn/zig-curl) - cURL binding for Zig
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
