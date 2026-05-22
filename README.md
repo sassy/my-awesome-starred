@@ -790,7 +790,7 @@
 
 - [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
-- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 - [nihemak/ddd-product-dev-sample-jp](https://github.com/nihemak/ddd-product-dev-sample-jp) - 
 - [bee-browser/bee](https://github.com/bee-browser/bee) - A web browser to be embedded within applications
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
