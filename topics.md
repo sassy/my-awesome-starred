@@ -227,6 +227,7 @@
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
+- [ahmedeltaher/Android-MVVM-Architecture-Android-Voice-AI-SDK](https://github.com/ahmedeltaher/Android-MVVM-Architecture-Android-Voice-AI-SDK) - Voice Assistant + Android Voide AI + MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
 
 ## ai-agents 
 
@@ -277,7 +278,7 @@
 - [ragnor-rs/visum](https://github.com/ragnor-rs/visum) - Android reactive MVP stack
 - [iammert/Android-MVVM-Architecture](https://github.com/iammert/Android-MVVM-Architecture) - Sample MVVM project uses instagram API
 - [nekocode/create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) - Create kotlin android project with one line of command.
-- [ahmedeltaher/Android-MVVM-Architecture](https://github.com/ahmedeltaher/Android-MVVM-Architecture) - MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
+- [ahmedeltaher/Android-MVVM-Architecture-Android-Voice-AI-SDK](https://github.com/ahmedeltaher/Android-MVVM-Architecture-Android-Voice-AI-SDK) - Voice Assistant + Android Voide AI + MVVM + Kotlin + Retrofit2 + Hilt + Coroutines + Kotlin Flow + mockK + Espresso + Junit5
 - [ahmedeltaher/Android-MVP-Architecture](https://github.com/ahmedeltaher/Android-MVP-Architecture) - MVP + Kotlin + Retrofit2 + Dagger2 + Coroutines + Anko + Kotlin-Android-Extensions + RX-java + Mockk + Espresso + Junit5
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [BlackBoxVision/mvp-helpers](https://github.com/BlackBoxVision/mvp-helpers) - ♻️Helper classes to build Android Apps through MVP pattern in a faster way
