@@ -103,7 +103,6 @@
 - [cocoa-mhlw/cocoa](https://github.com/cocoa-mhlw/cocoa) - 
 - [chomado/GoogleHomeHack](https://github.com/chomado/GoogleHomeHack) - Google Home 買ったので、マッチョな男の人に喋らせました。(C#, Azure Functions)
 - [svg-net/SVG](https://github.com/svg-net/SVG) - Fork of the ms svg library
-- [Azure/azure-functions-durable-extension](https://github.com/Azure/azure-functions-durable-extension) - Durable Task Framework extension for Azure Functions
 - [kikutaro/Sakamichi46Mobile](https://github.com/kikutaro/Sakamichi46Mobile) - 
 - [xamarinhq/app-conference](https://github.com/xamarinhq/app-conference) - Pre-build conference application built with Xamarin
 - [aritchie/userdialogs](https://github.com/aritchie/userdialogs) - A cross platform library that allows you to call for standard user dialogs from a core .net standard library,  Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async jus
