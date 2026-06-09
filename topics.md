@@ -1528,6 +1528,7 @@
 - [mtoukei/statbox2](https://github.com/mtoukei/statbox2) - 「新みやざき統計BOX」データ可視化機能のプロトタイプ
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [miso-develop/ifttt-cli](https://github.com/miso-develop/ifttt-cli) - Manage IFTTT from the command line.
+- [Azure/azure-functions-durable-extension](https://github.com/Azure/azure-functions-durable-extension) - Durable Task Framework extension for Azure Functions
 - [imajoriri/finger-snap](https://github.com/imajoriri/finger-snap) - 
 - [mike-neck/lambda-swift-app](https://github.com/mike-neck/lambda-swift-app) - Swift で Lambda やるぞ
 - [imajoriri/love-clova](https://github.com/imajoriri/love-clova) - 
