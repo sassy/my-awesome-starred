@@ -135,7 +135,7 @@
 - [libmx3/mx3](https://github.com/libmx3/mx3) - a sample project showcasing/collecting cross platform techniques on mobile
 - [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [pankona/KonaReflection](https://github.com/pankona/KonaReflection) - Breakout (ブロック崩し) using cocos2d-x
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
@@ -501,7 +501,7 @@
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [anthonyshort/deku](https://github.com/anthonyshort/deku) - Render interfaces using pure functions and virtual DOM
 - [magalhas/backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) - 
 - [lholmquist/generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) - 
 - [w3c/web-of-things-framework](https://github.com/w3c/web-of-things-framework) - 
