@@ -355,7 +355,6 @@
 - [ios-driver/ios-driver](https://github.com/ios-driver/ios-driver) - Selenium server to test native, hybrid and web apps on IOS. Join us on IRC #ios-driver on freenode
 - [mike-neck/gradle-testkit-support](https://github.com/mike-neck/gradle-testkit-support) - Gradle plugin, supporting gradle testKit.
 - [gree/aurora](https://github.com/gree/aurora) - AuroraはI/OをシャーディングするためのJava/Scala向けライブラリです。
-- [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [apache/xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) - Apache XML Graphics Batik
 - [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 - [xxv/android-lifecycle](https://github.com/xxv/android-lifecycle) - A diagram of the Android Activity / Fragment lifecycle
@@ -599,6 +598,7 @@
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+- [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 
 ## MDX 
