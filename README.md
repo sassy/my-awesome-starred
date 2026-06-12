@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [hideyuki-hori/lrs](https://github.com/hideyuki-hori/lrs) - 
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
