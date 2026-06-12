@@ -1369,6 +1369,7 @@
 
 ## others 
 
+- [hideyuki-hori/lrs](https://github.com/hideyuki-hori/lrs) - 
 - [hideyuki-hori/every-fail](https://github.com/hideyuki-hori/every-fail) - 
 - [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
