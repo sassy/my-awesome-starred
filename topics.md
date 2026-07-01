@@ -2021,6 +2021,7 @@
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2312,7 +2313,6 @@
 - [nektro/zigmod](https://github.com/nektro/zigmod) - 📦 A package manager for the Zig programming language.
 - [shiguredo/rebar3_zig](https://github.com/shiguredo/rebar3_zig) - Rebar3 plugin to call Zig functions from Erlang using NIF
 - [mattn/zig-curl](https://github.com/mattn/zig-curl) - cURL binding for Zig
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
