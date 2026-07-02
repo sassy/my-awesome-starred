@@ -115,6 +115,7 @@
 - [kotlin](#kotlin)
 - [language](#language)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -1145,6 +1146,11 @@
 
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [sassy/Leetcode](https://github.com/sassy/Leetcode) - 
+
 ## library 
 
 - [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
@@ -1451,7 +1457,6 @@
 - [jvns/kernel-module-fun](https://github.com/jvns/kernel-module-fun) - Some fun things you can do with kernel modules (all "bad ideas")
 - [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [sassy/Leetcode](https://github.com/sassy/Leetcode) - 
 - [pljp/kotlinx.coroutines](https://github.com/pljp/kotlinx.coroutines) - Libraries built upon Kotlin coroutines
 - [mike-neck/detect-newer-action](https://github.com/mike-neck/detect-newer-action) - An action that detects newer actions applied to your workflow.
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
