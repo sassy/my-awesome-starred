@@ -33,6 +33,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [cms](#cms)
 - [code](#code)
@@ -445,6 +446,10 @@
 
 - [sassy/review-badge-crx](https://github.com/sassy/review-badge-crx) - Chrome Extension for review badge
 - [diescake/norzan](https://github.com/diescake/norzan) - Norzan is a Chrome Extension to display the rest of workable time into a new tab.
+
+## claude 
+
+- [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 
 ## cli 
 
