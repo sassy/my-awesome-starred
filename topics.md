@@ -267,8 +267,8 @@
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 - [lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) - A type-safe HTTP client for Android and the JVM
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [ConnectyCube/android-messenger-app](https://github.com/ConnectyCube/android-messenger-app) - Chat and voice / video calling app using ConnectyCube
 - [square/workflow-kotlin-compose](https://github.com/square/workflow-kotlin-compose) - Jetpack Compose integration for Square Workflows.
 - [stfalcon-studio/ChatKit](https://github.com/stfalcon-studio/ChatKit) - Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon
@@ -986,8 +986,8 @@
 
 - [MilovanTomasevic/Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns) - Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
-- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) - A type-safe HTTP client for Android and the JVM
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [apache/cordova-electron](https://github.com/apache/cordova-electron) - Apache Cordova Electron
 - [pakoito/FunctionalRx2](https://github.com/pakoito/FunctionalRx2) - FunctionalRx2 is a collection of constructs to simplify a functional programming approach to Java and Android [STABLE]
 - [myinnos/Kotlin-Example](https://github.com/myinnos/Kotlin-Example) - An example for who are all going to start learning Kotlin programming language to develop Android application.
@@ -1126,7 +1126,7 @@
 - [Kotlin/kotlinx-nodejs](https://github.com/Kotlin/kotlinx-nodejs) - Kotlin external declarations for using the Node.js API from Kotlin code targeting JavaScript
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [square/workflow-kotlin-compose](https://github.com/square/workflow-kotlin-compose) - Jetpack Compose integration for Square Workflows.
 - [JetBrains/kotless](https://github.com/JetBrains/kotless) - Kotlin Serverless Framework
 - [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
