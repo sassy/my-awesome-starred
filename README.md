@@ -292,7 +292,6 @@
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [kasaharu/ng-basis](https://github.com/kasaharu/ng-basis) - 
 - [codeforjapan/vs-covid19](https://github.com/codeforjapan/vs-covid19) - VS COVID-19 企業による支援リスト（政府提供オープンデータ使用）
-- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
@@ -320,6 +319,7 @@
 - [mike-neck/graalvm-native-image-plugin](https://github.com/mike-neck/graalvm-native-image-plugin) - A Gradle plugin which creates a native executable via GraalVM's native-image. This is a thin wrapper of the native-image command.
 - [kawasima/savanna-maven-plugin](https://github.com/kawasima/savanna-maven-plugin) - A maven plugin for preventing no tests or to skip testing.
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
+- [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) - A type-safe HTTP client for Android and the JVM
 - [mike-neck/gradle-native-example](https://github.com/mike-neck/gradle-native-example) - Compile Java application with JNI, and cpp project using Gradle's `cpp-plugin`.
 - [stfalcon-studio/ChatKit](https://github.com/stfalcon-studio/ChatKit) - Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon
 - [kikutaro/SakamichiRpgPartyGeneratorApp](https://github.com/kikutaro/SakamichiRpgPartyGeneratorApp) - RPG Party Generator Web Application for Sakamichi Group.
@@ -578,7 +578,7 @@
 - [mike-neck/savanna-gradle-plugin](https://github.com/mike-neck/savanna-gradle-plugin) - A gradle plugin for preventing no tests or to skip testing, inspired by https://github.com/kawasima/savanna-maven-plugin
 - [android/user-interface-samples](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 - [lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) - A meticulous HTTP client for the JVM, Android, and GraalVM.
 - [AAkira/dagger-hilt-example](https://github.com/AAkira/dagger-hilt-example) - This repository is an example of the dagger android hilt plugin using an android view model
 - [ConnectyCube/android-messenger-app](https://github.com/ConnectyCube/android-messenger-app) - Chat and voice / video calling app using ConnectyCube
 - [JetBrains/kotless](https://github.com/JetBrains/kotless) - Kotlin Serverless Framework
