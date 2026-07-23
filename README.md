@@ -969,7 +969,7 @@
 - [azu/github-actions-badge](https://github.com/azu/github-actions-badge) - Generate GitHub Actions badge Markdown code.
 - [sassy/review-badge-crx](https://github.com/sassy/review-badge-crx) - Chrome Extension for review badge
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
-- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
+- [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library for Node.js.
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [frourios/frourio](https://github.com/frourios/frourio) - Fast and type-safe full stack framework, for TypeScript
