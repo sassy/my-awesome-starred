@@ -421,6 +421,7 @@
 - [stachibana/cek-handson-fortune](https://github.com/stachibana/cek-handson-fortune) - 
 - [kikutaro/SakamichiRpgPartyGenerator](https://github.com/kikutaro/SakamichiRpgPartyGenerator) - RPG Party Generator for Sakamichi Group.
 - [line/clova-extension-sample-dice](https://github.com/line/clova-extension-sample-dice) - 
+- [codeforjapan/mapprint](https://github.com/codeforjapan/mapprint) - 
 - [staltz/rxmarbles](https://github.com/staltz/rxmarbles) - Interactive diagrams of Rx Observables
 - [miya0001/Front-End-Checklist](https://github.com/miya0001/Front-End-Checklist) - フロントエンドチェックリスト日本語訳
 - [youtube/spfjs](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
@@ -819,7 +820,6 @@
 
 - [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - Martin Fowler's Bliki (ja)
 - [zenfumi/book_action](https://github.com/zenfumi/book_action) - 
-- [codeforjapan/mapprint](https://github.com/codeforjapan/mapprint) - 
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 
 ## SWIG 
