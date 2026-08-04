@@ -471,6 +471,7 @@
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [tj/react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers
 - [tj/node-thunkify](https://github.com/tj/node-thunkify) - Turn a regular node function into one which returns a thunk
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [Financial-Times/origami-build-tools](https://github.com/Financial-Times/origami-build-tools) - Standard Origami component development tools.
 - [GoogleChrome/proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill) - Proxy object polyfill
