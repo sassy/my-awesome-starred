@@ -984,6 +984,7 @@
 
 ## java 
 
+- [hideyuki-hori/i-love-event-driven-architecture](https://github.com/hideyuki-hori/i-love-event-driven-architecture) - イベント駆動アーキテクチャを手を動かして学ぶsandbox。Kafka / Kafka Connect / Cassandra / Debezium / Avro(Schema Registry) など回ごとにブランチで分け、Dev  Container で動かしながら Zenn 記事を書いてる
 - [MilovanTomasevic/Design-Patterns](https://github.com/MilovanTomasevic/Design-Patterns) - Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
 - [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) - A type-safe HTTP client for Android and the JVM
@@ -1381,6 +1382,8 @@
 
 ## others 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [hideyuki-hori/clum](https://github.com/hideyuki-hori/clum) - おれの かんがえた さいきょうの げんご
 - [hideyuki-hori/lrs](https://github.com/hideyuki-hori/lrs) - 
 - [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
