@@ -281,6 +281,7 @@
 
 ## HTML 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [willnet/rspec-style-guide](https://github.com/willnet/rspec-style-guide) - 可読性の高いテストコードを書くためのお作法集
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
@@ -639,6 +640,7 @@
 
 ## Others 
 
+- [hideyuki-hori/i-love-event-driven-architecture](https://github.com/hideyuki-hori/i-love-event-driven-architecture) - イベント駆動アーキテクチャを手を動かして学ぶsandbox。Kafka / Kafka Connect / Cassandra / Debezium / Avro(Schema Registry) など回ごとにブランチで分け、Dev  Container で動かしながら Zenn 記事を書いてる
 - [ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP) - Teach Yourself CS - Japanese
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [yanamura/management](https://github.com/yanamura/management) - 
@@ -790,6 +792,7 @@
 
 ## Rust 
 
+- [hideyuki-hori/clum](https://github.com/hideyuki-hori/clum) - おれの かんがえた さいきょうの げんご
 - [hideyuki-hori/rust-moon](https://github.com/hideyuki-hori/rust-moon) - 
 - [zebra-rs/zebra-rs](https://github.com/zebra-rs/zebra-rs) - 
 - [grpc/grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
