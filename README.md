@@ -231,6 +231,7 @@
 - [niiyz/JapanCityGeoJson](https://github.com/niiyz/JapanCityGeoJson) - GeoJson of Japanese cities.  and TopoJson.
 - [pankona/hashira](https://github.com/pankona/hashira) - One of a great ToDo manage application for me
 - [albrow/fo](https://github.com/albrow/fo) - An experimental language which adds functional programming features to Go.
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [pankona/mypr](https://github.com/pankona/mypr) - 
@@ -281,7 +282,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [willnet/rspec-style-guide](https://github.com/willnet/rspec-style-guide) - 可読性の高いテストコードを書くためのお作法集
 - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) - Learn How to use Zig's Standard Library, by simple and small examples.
 - [tc39/proposal-cleanup-some](https://github.com/tc39/proposal-cleanup-some) - Proposal to migrate cleanup some to its own proposal repository
@@ -995,7 +996,6 @@
 - [miso-develop/ifttt-cli](https://github.com/miso-develop/ifttt-cli) - Manage IFTTT from the command line.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [line/clova-cek-sdk-nodejs](https://github.com/line/clova-cek-sdk-nodejs) - SDK of the Clova CEK for Node.js
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [tddbc/typescript-mocha](https://github.com/tddbc/typescript-mocha) - skeleton for TypeScript users.
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
