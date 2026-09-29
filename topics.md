@@ -1666,7 +1666,6 @@
 - [google/android-gradle-dsl](https://github.com/google/android-gradle-dsl) - DSL reference for the Android plugin for Gradle.
 - [thoughtbot/Delta](https://github.com/thoughtbot/Delta) - Managing state is hard. Delta aims to make it simple.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-- [Financial-Times/origami-build-tools](https://github.com/Financial-Times/origami-build-tools) - Standard Origami component development tools.
 - [GoogleChrome/proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill) - Proxy object polyfill
 - [mitchellh/gox](https://github.com/mitchellh/gox) - A dead simple, no frills Go cross compile tool
 - [matthewmueller/vo](https://github.com/matthewmueller/vo) - Minimalist, yet complete control flow library.
