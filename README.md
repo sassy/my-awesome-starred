@@ -475,7 +475,6 @@
 - [tj/node-thunkify](https://github.com/tj/node-thunkify) - Turn a regular node function into one which returns a thunk
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-- [Financial-Times/origami-build-tools](https://github.com/Financial-Times/origami-build-tools) - Standard Origami component development tools.
 - [GoogleChrome/proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill) - Proxy object polyfill
 - [matthewmueller/vo](https://github.com/matthewmueller/vo) - Minimalist, yet complete control flow library.
 - [tj/co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
@@ -523,6 +522,7 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [entropi/grunt-electron-app-builder](https://github.com/entropi/grunt-electron-app-builder) - grunt plugin to ease the building of atom-shell based applications
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [shama/nodewebkit](https://github.com/shama/nodewebkit) - :computer: An installer for node-webkit
 - [nwutils/nw-builder](https://github.com/nwutils/nw-builder) - Build NW.js applications for Linux, MacOS and Windows
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
@@ -1050,7 +1050,6 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
 
