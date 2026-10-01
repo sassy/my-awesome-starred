@@ -761,7 +761,7 @@
 
 ## Ruby 
 
-- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
+- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - Jekyll plugin that uses README.md as your site's index page, no index.md needed. Supported on GitHub Pages
 - [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [ikeay/tv-info-bot](https://github.com/ikeay/tv-info-bot) - タレントのTV出演情報をTwitterでつぶやく
