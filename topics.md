@@ -661,6 +661,7 @@
 ## documentation 
 
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - Jekyll plugin that uses README.md as your site's index page, no index.md needed. Supported on GitHub Pages
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 
@@ -1100,7 +1101,7 @@
 
 ## jekyll 
 
-- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
+- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - Jekyll plugin that uses README.md as your site's index page, no index.md needed. Supported on GitHub Pages
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## jetpack-compose 
@@ -2033,7 +2034,7 @@
 
 ## ruby 
 
-- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - A Jekyll plugin to render a project's README as the site's index.
+- [benbalter/jekyll-readme-index](https://github.com/benbalter/jekyll-readme-index) - Jekyll plugin that uses README.md as your site's index page, no index.md needed. Supported on GitHub Pages
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
