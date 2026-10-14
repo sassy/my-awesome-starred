@@ -428,7 +428,6 @@
 - [miya0001/Front-End-Checklist](https://github.com/miya0001/Front-End-Checklist) - フロントエンドチェックリスト日本語訳
 - [youtube/spfjs](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
 - [fluct/fluct](https://github.com/fluct/fluct) - A framework to build server-less web applications using Lambda and API Gateway.
 - [Shinpeim/NekogataDrumSequencer](https://github.com/Shinpeim/NekogataDrumSequencer) - 
