@@ -881,7 +881,7 @@
 
 ## hack 
 
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+- [meta/hhvm](https://github.com/meta/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## hacking 
 
@@ -1426,9 +1426,9 @@
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [increments/qiita-cli](https://github.com/increments/qiita-cli) - Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。
 - [AndroidDagashi/AndroidDagashi](https://github.com/AndroidDagashi/AndroidDagashi) - 
-- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [meta/flipper](https://github.com/meta/flipper) - A desktop debugging platform for mobile developers.
 - [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc) - mruby/c is another implementation of mruby.
-- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [meta/folly](https://github.com/meta/folly) - An open-source C++ library developed and used at Facebook.
 - [yanamura/management](https://github.com/yanamura/management) - 
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
 - [skirino/croma](https://github.com/skirino/croma) - Elixir macro utilities to make type-based programming easier
@@ -1592,7 +1592,7 @@
 - [2muchcoffeecom/ng2-destroy-subscribers](https://github.com/2muchcoffeecom/ng2-destroy-subscribers) - Allows to destroy subscribers in Angular 2 component
 - [awslabs/dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [fluct/fluct](https://github.com/fluct/fluct) - A framework to build server-less web applications using Lambda and API Gateway.
-- [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+- [meta/litho](https://github.com/meta/litho) - A declarative framework for building efficient UIs on Android.
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [lacolaco/angular-modules-example](https://github.com/lacolaco/angular-modules-example) - ng new -&gt; new NgModule -&gt; Lazy Loading
 - [Shinpeim/NekogataDrumSequencer](https://github.com/Shinpeim/NekogataDrumSequencer) - 
@@ -1694,9 +1694,9 @@
 - [Songmu/prompter](https://github.com/Songmu/prompter) - golang utility for easy prompting
 - [cubicdaiya/slackboard](https://github.com/cubicdaiya/slackboard) - A slack proxy server
 - [cubicdaiya/nginx-build](https://github.com/cubicdaiya/nginx-build) - Seamless nginx builder
-- [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
+- [meta/screenshot-tests-for-android](https://github.com/meta/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
-- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
+- [meta/idb](https://github.com/meta/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [kbwood/svg](https://github.com/kbwood/svg) - jQuery SVG plugin
 - [libmx3/mx3](https://github.com/libmx3/mx3) - a sample project showcasing/collecting cross platform techniques on mobile
 - [jerryscript-project/iotjs](https://github.com/jerryscript-project/iotjs) - Platform for Internet of Things with JavaScript http://www.iotjs.net
@@ -1715,7 +1715,7 @@
 - [gmkou/romods](https://github.com/gmkou/romods) - Move Romo via Browser on Nintendo 3DS
 - [mike-neck/rule-base-model-generation-plugin](https://github.com/mike-neck/rule-base-model-generation-plugin) - This is plugin for Gradle, which generates interfaces for rule base model.
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [sassy/A-rinRobo](https://github.com/sassy/A-rinRobo) - あーりんロボという名のbot
 - [hipchat/hubot-hipchat](https://github.com/hipchat/hubot-hipchat) - HipChat adapter for GitHub's Hubot
 - [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing) - A curated list of awesome android testing libraries.
@@ -1740,7 +1740,7 @@
 - [sugyan/genba-info](https://github.com/sugyan/genba-info) - 
 - [mainyaa/gulp-electron](https://github.com/mainyaa/gulp-electron) - A gulp plugin for atom-shell distribute applications
 - [Leaflet/Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet.
-- [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
+- [meta/fresco](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [GNOME/librsvg](https://github.com/GNOME/librsvg) - Read-only mirror of https://gitlab.gnome.org/GNOME/librsvg
 - [apache/xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) - Apache XML Graphics Batik
@@ -1845,7 +1845,7 @@
 - [tj/should.js](https://github.com/tj/should.js) - BDD style assertions for node.js -- test framework agnostic
 - [themattharris/tmhOAuth](https://github.com/themattharris/tmhOAuth) - An OAuth 1.0A library written in PHP
 - [debreuil/Swf2XNA](https://github.com/debreuil/Swf2XNA) - Use Flash to create XNA games (now works with XNA4). Thanks to Patrick Godwin, now works with WinPhone7 as well!
-- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
+- [meta/facebook-android-sdk](https://github.com/meta/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 - [defunkt/coffee-mode](https://github.com/defunkt/coffee-mode) - Emacs Major Mode for CoffeeScript
 - [gitster/git](https://github.com/gitster/git) - Git - the stupid content tracker - This is a publish-only "broken out" repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvement
 
@@ -1868,7 +1868,7 @@
 ## php 
 
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+- [meta/hhvm](https://github.com/meta/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## powershell 
 
