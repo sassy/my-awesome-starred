@@ -119,7 +119,7 @@
 
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers) - C++ Fixed Containers
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [meta/folly](https://github.com/meta/folly) - An open-source C++ library developed and used at Facebook.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
@@ -141,7 +141,7 @@
 - [nowsprinting/GradleAndroidNdkExample](https://github.com/nowsprinting/GradleAndroidNdkExample) - Gradle plugin for Android example project
 - [contextlimit/node-flash](https://github.com/contextlimit/node-flash) - Library which runs .swf Flash files natively in Node.js
 - [strk/gnash](https://github.com/strk/gnash) - The GNU SWF Player
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+- [meta/hhvm](https://github.com/meta/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## CSS 
 
@@ -353,7 +353,7 @@
 - [maskarade/StaticGson](https://github.com/maskarade/StaticGson) - A Gson binding generator with annotation processing
 - [dagezi/gradle-android-9patch-plugin](https://github.com/dagezi/gradle-android-9patch-plugin) - Create 9patch from normal PNG
 - [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
-- [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
+- [meta/screenshot-tests-for-android](https://github.com/meta/screenshot-tests-for-android) - Generate fast deterministic screenshots during Android instrumentation tests
 - [ios-driver/ios-driver](https://github.com/ios-driver/ios-driver) - Selenium server to test native, hybrid and web apps on IOS. Join us on IRC #ios-driver on freenode
 - [mike-neck/gradle-testkit-support](https://github.com/mike-neck/gradle-testkit-support) - Gradle plugin, supporting gradle testKit.
 - [gree/aurora](https://github.com/gree/aurora) - AuroraはI/OをシャーディングするためのJava/Scala向けライブラリです。
@@ -590,7 +590,7 @@
 - [burakeregar/KotlinMvpArchitecture](https://github.com/burakeregar/KotlinMvpArchitecture) - Clean MVP Architecture with Dagger2 + Retrofit2 + Mockito + Fresco + EasiestGenericRecyclerAdapter using Kotlin. Added Unit Tests(Kotlin Tests)!
 - [general-mobile/kotlin-android-mvp-starter](https://github.com/general-mobile/kotlin-android-mvp-starter) - Create/Generate your kotlin MVP projects easily
 - [binaryroot/AndroidArchitecture](https://github.com/binaryroot/AndroidArchitecture) - Android Architecture using Google guides
-- [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+- [meta/litho](https://github.com/meta/litho) - A declarative framework for building efficient UIs on Android.
 - [myinnos/Kotlin-Example](https://github.com/myinnos/Kotlin-Example) - An example for who are all going to start learning Kotlin programming language to develop Android application.
 - [nekocode/create-android-kotlin-app](https://github.com/nekocode/create-android-kotlin-app) - Create kotlin android project with one line of command.
 - [ahmedeltaher/Agnentic-Voice-AI-SDK](https://github.com/ahmedeltaher/Agnentic-Voice-AI-SDK) - Voice AI SDK is a reusable Android library that gives any app a full voice-driven AI conversation pipeline in minutes. Voice Assistant + Android Voide AI + SDK + MVVM + Kotlin
@@ -599,8 +599,8 @@
 - [kickstarter/android-oss](https://github.com/kickstarter/android-oss) - Kickstarter for Android. Bring new ideas to life, anywhere.
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-- [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
-- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
+- [meta/fresco](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
+- [meta/facebook-android-sdk](https://github.com/meta/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 
 ## MDX 
 
@@ -815,7 +815,7 @@
 - [koute/stdweb](https://github.com/koute/stdweb) - A standard library for the client-side Web
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [rust-mobile/android-rs-glue](https://github.com/rust-mobile/android-rs-glue) - Glue between Rust and Android
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [GNOME/librsvg](https://github.com/GNOME/librsvg) - Read-only mirror of https://gitlab.gnome.org/GNOME/librsvg
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -892,7 +892,7 @@
 - [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [yashigani/WebKitPlus](https://github.com/yashigani/WebKitPlus) - A support library for WKWebView.
 - [yonekawa/SwiftFlux](https://github.com/yonekawa/SwiftFlux) - A type-safe Flux implementation for Swift
-- [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
+- [meta/idb](https://github.com/meta/idb) - idb is a flexible command line interface for automating iOS simulators and devices
 - [kumabook/MusicFav](https://github.com/kumabook/MusicFav) - MusicFav is RSS Reader that focuses on playing music comfortably
 - [kumabook/FeedlyKit](https://github.com/kumabook/FeedlyKit) - Feedly Cloud API client library written in swift
 - [modocache/Gift](https://github.com/modocache/Gift) - Swift bindings to libgit2. But you should use https://github.com/SwiftGit2/SwiftGit2 instead!
@@ -915,7 +915,7 @@
 - [increments/qiita-cli](https://github.com/increments/qiita-cli) - Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [meta/flipper](https://github.com/meta/flipper) - A desktop debugging platform for mobile developers.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
