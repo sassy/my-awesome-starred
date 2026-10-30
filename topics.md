@@ -17,6 +17,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -344,6 +345,12 @@
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 
+## animation 
+
+- [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
+- [RxSwiftCommunity/RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) - UITableView and UICollectionView Data Sources for RxSwift (sections, animated updates, editing ...)
+- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+
 ## api 
 
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis
@@ -401,7 +408,7 @@
 ## aws 
 
 - [aws-amplify-jp/awesome-aws-amplify-ja](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja) - 日本語で書かれているAWS Amplifyのツール、チュートリアル、記事などのリンク集
-- [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
+- [aws/amazon-cognito-identity-js](https://github.com/aws/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - This SDK has reached end-of-support. The AWS SDK for Go v2 is available here: https://github.com/aws/aws-sdk-go-v2
 
 ## bash 
@@ -1057,7 +1064,7 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
+- [aws/amazon-cognito-identity-js](https://github.com/aws/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -1503,7 +1510,6 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [mike-neck/covid2019-tokyo-plot](https://github.com/mike-neck/covid2019-tokyo-plot) - 
 - [ikko-lang/ikko](https://github.com/ikko-lang/ikko) - Ikko language
-- [RxSwiftCommunity/RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) - UITableView and UICollectionView Data Sources for RxSwift (sections, animated updates, editing ...)
 - [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [kasaharu/ng-basis](https://github.com/kasaharu/ng-basis) - 
 - [mercari/mercari-slack-guidelines](https://github.com/mercari/mercari-slack-guidelines) - Slack guidelines of Mercari.
@@ -1983,7 +1989,7 @@
 - [boopathi/react-svg-loader](https://github.com/boopathi/react-svg-loader) - A loader for webpack, rollup, babel that loads svg as a React Component
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
-- [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
+- [aws/amazon-cognito-identity-js](https://github.com/aws/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [swiftcarrot/react-ui-tree](https://github.com/swiftcarrot/react-ui-tree) - React tree component with  drag & drop
@@ -1998,7 +2004,7 @@
 - [katayama8000/expo-push-notification-client-rust](https://github.com/katayama8000/expo-push-notification-client-rust) - Expo Push Notification Client for Rust
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
+- [aws/amazon-cognito-identity-js](https://github.com/aws/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 
 ## reactiveui 
