@@ -438,7 +438,7 @@
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [pankona/geogeo](https://github.com/pankona/geogeo) - 
 - [diescake/dash-holiday-creator](https://github.com/diescake/dash-holiday-creator) - dash-holiday-creator creates the best holidays for you !!
-- [amazon-archives/amazon-cognito-identity-js](https://github.com/amazon-archives/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
+- [aws/amazon-cognito-identity-js](https://github.com/aws/amazon-cognito-identity-js) - Amazon Cognito Identity SDK for JavaScript
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [electron-userland/spectron](https://github.com/electron-userland/spectron) - DEPRECATED: 🔎 Test Electron apps using ChromeDriver
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
