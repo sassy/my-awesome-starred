@@ -16,6 +16,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [api](#api)
@@ -313,6 +314,12 @@
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [apache/cordova-android](https://github.com/apache/cordova-android) - Apache Cordova Android
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+
+## android-app 
+
+- [DroidKaigi/conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) - The Official Conference App for DroidKaigi 2022
+- [OWASP/masvs](https://github.com/OWASP/masvs) - The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
+- [DroidKaigi/conference-app-2017](https://github.com/DroidKaigi/conference-app-2017) - The Official Conference App for DroidKaigi 2017 Tokyo
 
 ## angular 
 
