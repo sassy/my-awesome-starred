@@ -199,6 +199,7 @@
 - [video](#video)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1752,7 +1753,6 @@
 - [w3c/web-of-things-framework](https://github.com/w3c/web-of-things-framework) - 
 - [sugyan/genba-info](https://github.com/sugyan/genba-info) - 
 - [mainyaa/gulp-electron](https://github.com/mainyaa/gulp-electron) - A gulp plugin for atom-shell distribute applications
-- [Leaflet/Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet.
 - [meta/fresco](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [GNOME/librsvg](https://github.com/GNOME/librsvg) - Read-only mirror of https://gitlab.gnome.org/GNOME/librsvg
@@ -2268,6 +2268,10 @@
 ## visual-studio-code 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## visualization 
+
+- [Leaflet/Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet.
 
 ## vue 
 
