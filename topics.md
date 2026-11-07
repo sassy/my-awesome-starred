@@ -200,6 +200,7 @@
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -2272,6 +2273,11 @@
 ## visualization 
 
 - [Leaflet/Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet.
+
+## vscode 
+
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
+- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
 ## vue 
 
