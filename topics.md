@@ -209,6 +209,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [workflow](#workflow)
 - [xamarin](#xamarin)
@@ -2336,6 +2337,10 @@
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
+
+## whatsapp 
+
+- [ConnectyCube/android-messenger-app](https://github.com/ConnectyCube/android-messenger-app) - Chat and voice / video calling app using ConnectyCube
 
 ## windows 
 
