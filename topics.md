@@ -1959,7 +1959,6 @@
 
 - [sassy/momoclo-news-crawler](https://github.com/sassy/momoclo-news-crawler) - collect news from https://www.momoclo.net/news/
 - [sassy/saveAmebloContents](https://github.com/sassy/saveAmebloContents) - save ameblo contents.
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sassy/rto](https://github.com/sassy/rto) - Open Redmine ticket of myself to browser.
 
 ## pytorch 
