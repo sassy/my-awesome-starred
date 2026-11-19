@@ -189,6 +189,7 @@
 - [shell](#shell)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -2137,6 +2138,10 @@
 
 - [goatshriek/stumpless](https://github.com/goatshriek/stumpless) - a fast and feature-rich logging library for C
 - [maskarade/Android-Orma](https://github.com/maskarade/Android-Orma) - An ORM for Android with type-safety and declarative schema migrations
+
+## static-site-generator 
+
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## storybook 
 
