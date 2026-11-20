@@ -30,7 +30,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -544,6 +543,7 @@
 - [sassy/youtubeUserScript](https://github.com/sassy/youtubeUserScript) - Youtubeをみるためのユーザースクリプト
 - [enyojs/enyo](https://github.com/enyojs/enyo) - A JavaScript application framework emphasizing modularity and encapsulation
 - [sassy/svgclock](https://github.com/sassy/svgclock) - SVGでつくった時計のOperaウィジェット
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [fasterthanlime/jsmad](https://github.com/fasterthanlime/jsmad) - :saxophone: Javascript MPEG-1 Audio Layer III (mp3) and ID3v2 decoder
 - [danlucraft/git.js](https://github.com/danlucraft/git.js) - pure-Javascript Git implementation
 - [tj/should.js](https://github.com/tj/should.js) - BDD style assertions for node.js -- test framework agnostic
@@ -600,10 +600,6 @@
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [meta/fresco](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
 - [meta/facebook-android-sdk](https://github.com/meta/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
-
-## MDX 
-
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Markdown 
 
